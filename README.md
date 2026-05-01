@@ -52,3 +52,12 @@ Senior SAP Project Manager with experience leading critical S/4HANA go-live and 
 ## 💡 Strategic Perspective
 
 This repository reflects real-world SAP program management practices, combining execution discipline with strategic decision-making.
+
+## 📊 Key Visuals
+
+- Cutover Execution Flow  
+- War Room Command Structure  
+- Incident Management Flow  
+- Decision Flow  
+
+These diagrams represent real-world SAP program execution models.
