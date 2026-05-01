@@ -2,7 +2,7 @@
 
 ## 🌍 Multi-Region Cutover Playbook
 
-![Multi-Region Cutover Playbook](assets/multi-region-cutover-playbook.png)
+![Multi-Region Cutover Playbook](../assets/multi-region-cutover-playbook.png)
 
 Single-region cutovers are complex. Multi-region cutovers are complex in multiple dimensions simultaneously — and the dimensions interact.
 
