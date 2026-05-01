@@ -44,7 +44,7 @@ Regulatory programs (Brazil Tax Reform IBS/CBS, eSocial) applied to SAP
 
 Contact
 📧 nbiagiojunior@gmail.com
-💼 linkedin.com/in/nelson-biagio-junior
+💼 https://linkedin.com/in/nelson-biagio-junior
 🌎 São Paulo, Brazil — open to remote and global engagements
 
 ## Final Note
