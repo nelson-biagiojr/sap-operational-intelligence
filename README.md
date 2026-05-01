@@ -2,6 +2,11 @@
 
 A structured framework for planning and executing cutover activities in high-criticality SAP S/4HANA programs.
 
+
+## 🔷 Cutover Execution Flow
+
+![SAP Cutover Flow](assets/cutover-flow.png)
+
 ## 🎯 Objective
 
 Ensure controlled and risk-mitigated transitions during go-live, preserving business continuity and minimizing operational disruption.
@@ -32,3 +37,14 @@ This framework is based on hands-on experience managing complex SAP programs inv
 ## 👤 Author
 
 Senior SAP Project Manager with experience leading critical S/4HANA go-live and transformation programs.
+
+## 🔗 Repository Structure
+
+- cutover-checklist.md  
+- war-room-model.md  
+- hypercare-framework.md  
+- executive-summary.md  
+
+## 💡 Strategic Perspective
+
+This repository reflects real-world SAP program management practices, combining execution discipline with strategic decision-making.
