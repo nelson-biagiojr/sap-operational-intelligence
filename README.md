@@ -38,6 +38,7 @@ This framework does not prescribe a universal method. It documents what actually
 | [cutover-flow.md](cutover-flow.md) | End-to-end execution sequence with phase gates and decision triggers |
 | [cutover-checklist.md](cutover-checklist.md) | Go/No-Go criteria, technical and business readiness validation |
 | [war-room-model.md](war-room-model.md) | Command structure, escalation logic, roles, and real-time issue management — including multi-region coordination |
+| [multi-region-cutover-playbook.md](multi-region-cutover-playbook.md) | Multi-region go-live execution: follow-the-sun model, cross-region dependency sequencing, regional vs. global command structure, handoff protocol, and wave-based go-live logic |
 | [data-migration-cutover-integration.md](data-migration-cutover-integration.md) | Data migration as an integrated cutover workstream: sequencing, reconciliation gates, sign-off protocol, and post-go-live tail activities |
 | [regulatory-golive-model.md](regulatory-golive-model.md) | Go-live execution under regulatory deadlines — Brazil Tax Reform (IBS/CBS), eSocial, compliance gates, and what changes when the timeline is set by law |
 | [hypercare-framework.md](hypercare-framework.md) | Post go-live stabilization model: SLA, incident triage, L1/L2/L3 structure |
@@ -46,8 +47,6 @@ This framework does not prescribe a universal method. It documents what actually
 | [ai-for-cutover.md](ai-for-cutover.md) | How AI tools can support cutover planning and war room operations |
 | [executive-summary.md](executive-summary.md) | C-level communication model during cutover windows |
 | [about.md](about.md) | Programs that shaped this framework and context behind the content |
-
-
 
 ---
 
