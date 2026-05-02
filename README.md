@@ -48,6 +48,7 @@ A complete operating model for SAP cutover execution, covering:
 - **[Cutover Execution Flow](cutover-flow.md):** End-to-end execution with sequencing logic, phase gates, and decision triggers.
 - **[Pre-SUM Preparation](pre-sum-preparation.md):** Technical readiness model covering Add-on governance, validation cycles, and system stability.
 - **[Cutover Checklist](cutover-checklist.md):** Structured Go/No-Go criteria for business and technical readiness.
+- **[Rollback Framework](cutover-rollback-framework.md):** Controlled rollback decision model including PoNR, triggers, governance, and restoration sequence.
 - **[Rollback Framework](cutover-rollback-framework.md):** Controlled rollback decision model including PoNR, triggers, and governance.
 
 ---
