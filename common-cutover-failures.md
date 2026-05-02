@@ -1,3 +1,7 @@
+## SAP Cutover – Failure Patterns Framework
+
+![Framework illustrating recurring SAP cutover failure patterns across governance, technical processes, planning, execution, multi-region coordination and communication, including examples and mitigation actions](assets/cutover-failure-patterns-framework.png)
+
 These are not theoretical failure modes. They are patterns observed across multiple high-complexity SAP programs — ECC-to-S/4HANA migrations, global upgrades, and regulatory go-lives — in environments where a single unresolved issue can cascade across regions, systems, and business operations.
 They are grouped by origin, not by severity. Most of them are recoverable. Some are not.
 
@@ -12,9 +16,9 @@ What actually works: Go/No-Go criteria are defined at the start of the cutover p
 *   **Language Barriers:** Delays caused by the need to translate tickets. Standardizing on **English** for all issue management is critical [9, 10].
 
 2. Technical & Process Failures
-*   **Late Retrofit:** Starting transport retrofits too late, preventing full end-to-end testing during UAT [11].
+*   **Late Retrofit:** Starting transport retrofits too late, preventing full end-to-end testing during UAT .
 *   **UAM Bottlenecks:** Lack of a dedicated User Access Management (UAM) resource leads to locked users during ramp-up, stalling the timeline [12, 13].
-*   **Add-on Incompatibility:** Failure to validate the Add-on compatibility matrix before execution, leading to SUM (Software Update Manager) failures [14].
+*   **Add-on Incompatibility:** Failure to validate the Add-on compatibility matrix before execution, leading to SUM (Software Update Manager) failures .
 *   **Vague Basis Documentation:** Technical tasks described poorly or based on email chains leads to divergent interpretations and mistakes [15, 16].
 
 * **Rollback criteria defined after the downtime window opens** 
@@ -88,8 +92,8 @@ Executive communication that was improvised under pressure
 At the 6-hour mark of a 10-hour window, the SteerCo chair asks for an update. The Cutover Lead provides a verbal summary based on what they remember from the last status sync. The summary is accurate but incomplete — it omits a medium-severity incident that was resolved 90 minutes ago.
 The SteerCo chair finds out about the incident from a different source 2 hours later and asks why it was not mentioned.
 What actually works: Executive updates are prepared from the issue log, not from memory. The format is pre-agreed: status, open incidents, resolved incidents, risks, next update. The Cutover Lead reviews the log before every executive communication, not after.
-*   **Misalignment with Product Teams:** Underestimating functional impacts due to lack of alignment with business "Product Towers" [1].
-*   **Late Timeline Notifications:** Changing system schedules without at least one week's notice to impacted teams [17].
+*   **Misalignment with Product Teams:** Underestimating functional impacts due to lack of alignment with business "Product Towers" .
+*   **Late Timeline Notifications:** Changing system schedules without at least one week's notice to impacted teams .
 
 
 ## Pattern summary

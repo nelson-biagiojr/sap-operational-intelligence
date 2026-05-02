@@ -7,19 +7,27 @@ This repository was built on the principle that **real-world experience beats th
 ## How You Can Contribute
 
 ```mermaid
-graph TD
-    Node1["Expert in the Field"] -- "Share Battle Scars" --> Node2["Contribution"]
-    Node2 -- "Review & Validation" --> Node3["SAP Cutover Framework"]
-    Node3 -- "Enhanced Best Practices" --> Node4["Global SAP Community"]
-    Node4 -- "Better Executed Cutovers" --> Node1
+flowchart LR
+    Contributor["Contributor / Program Lead"]
+    Contribution["Contribution\n(lessons, templates, issues)"]
+    Review["Review & Validation"]
+    Framework["SAP Cutover Framework\n(merged and curated content)"]
+    Community["Community\n(best practices in use)"]
 
-    subgraph Feedback_Loop
-        Node2
-        Node3
+    Contributor -->|Submit PR / Issue| Contribution
+    Contribution --> Review
+    Review -->|Merge / refine| Framework
+    Framework -->|Published updates| Community
+    Community -->|Applies learnings| Contributor
+
+    subgraph Feedback_Loop["Contribution Feedback Loop"]
+        Contribution
+        Review
+        Framework
     end
 
-    style Node3 fill:#bbf,stroke:#333,stroke-width:2px
-    style Node1 fill:#f96,stroke:#333
+    classDef highlight fill:#bbf,stroke:#333,stroke-width:2px;
+    class Framework highlight
 ```
 
 ### 1. Share "Lessons Learned" (Anonymous or Attributed)

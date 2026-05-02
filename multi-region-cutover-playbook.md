@@ -6,7 +6,7 @@
 
 Single-region cutovers are complex. Multi-region cutovers are complex in multiple dimensions simultaneously — and the dimensions interact.
 
-A cutover across 14 countries, 8 integrated enterprise systems, and multiple time zones is not a single-region cutover repeated several times. It is a different operational problem. The sequencing logic is different, the command structure is different, the failure modes are different, and the definition of "go-live" is different.
+A cutover across 14 countries, 8 integrated enterprise systems, and multiple time zones is not a single-region cutover repeated several times. It is a different operational problem. The sequencing logic, command structure, failure modes, and the definition of "go-live" are all different.
 
 This playbook documents how multi-region cutover execution actually works — based on direct experience leading global S/4HANA upgrade operations across 14 countries.
 
