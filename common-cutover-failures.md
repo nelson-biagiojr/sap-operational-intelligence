@@ -1,3 +1,7 @@
+## SAP Cutover – Failure Patterns Framework
+
+![Framework illustrating recurring SAP cutover failure patterns across governance, technical processes, planning, execution, multi-region coordination and communication, including examples and mitigation actions](assets/cutover-failure-patterns-framework.png)
+
 These are not theoretical failure modes. They are patterns observed across multiple high-complexity SAP programs — ECC-to-S/4HANA migrations, global upgrades, and regulatory go-lives — in environments where a single unresolved issue can cascade across regions, systems, and business operations.
 They are grouped by origin, not by severity. Most of them are recoverable. Some are not.
 
