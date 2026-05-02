@@ -30,7 +30,7 @@ flowchart LR
     APAC -- Handoff --> AMER
 
     style PD fill:#bbf,stroke:#333,stroke-width:2px
-    ```
+```
 
 ---------------------------------------------------------------------
 
