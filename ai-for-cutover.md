@@ -38,9 +38,9 @@ AI helps simulate the impact of decisions when time is the most scarce resource.
     > "The project has reached the business validation phase gate, but we have 3 critical incidents open. Act as a Risk Manager and simulate the consequences of a 'Go' vs. a 'No-Go' (Rollback). Consider the impact on Brazil Tax Reform (IBS/CBS) and zero-tolerance conditions for operational disruption in 14 countries. Provide a reasoned recommendation."
 
 ## Benefits
-- **Faster decision-making:** Reduces the time spent synthesizing raw data into actionable insights [1].
-- **Improved risk visibility:** Identifies cascading failures before they impact the critical path [2].
-- **Better communication quality:** Standardizes reporting across different regions and levels of the organization [1].
+- **Faster decision-making:** Reduces the time spent synthesizing raw data into actionable insights .
+- **Improved risk visibility:** Identifies cascading failures before they impact the critical path .
+- **Better communication quality:** Standardizes reporting across different regions and levels of the organization .
 
 ## Positioning
 This framework combines **traditional SAP delivery expertise** — built from real-world programs like CBMM and AB InBev — with **AI-enabled management**, shifting the cutover lead's role from data gatherer to strategic decision-maker [2, 3].
