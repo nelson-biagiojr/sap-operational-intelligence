@@ -10,8 +10,6 @@ This repository provides a structured, execution-focused framework for SAP S/4HA
 It is not theoretical.  
 It is designed for decision-making, execution control, and governance under pressure.
 
-## SAP Cutover Framework Overview
-
 ![Visual operating model for SAP cutover execution, covering strategy and planning, governance and command center, specialized execution modules, and stabilization with continuous improvement](assets/sap-cutover-framework-map.png)
 ---
 
