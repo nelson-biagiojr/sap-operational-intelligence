@@ -4,6 +4,34 @@
 
 ![Cutover War Room](assets/cutover-war-room-structure.png)
 
+'''graph LR
+    subgraph Governance
+        Exec[Executive Committee]
+    end
+    
+    subgraph Global_Command
+        PD[Program Director / War Room Central]
+    end
+    
+    subgraph Regional_Hubs
+        AMER[Americas Hub]
+        EMEA[EMEA Hub]
+        APAC[APAC Hub]
+    end
+
+    Exec <--> PD
+    PD <--> AMER
+    PD <--> EMEA
+    PD <--> APAC
+    
+    AMER -- Handoff --> EMEA
+    EMEA -- Handoff --> APAC
+    APAC -- Handoff --> AMER
+
+    style PD fill:#bbf,stroke:#333,stroke-width:2px'''
+
+---------------------------------------------------------------------
+
 ## What a war room actually is
 A war room is not a meeting room with a dashboard. It is a temporary command structure that replaces the normal program governance model during the highest-risk window of the program — from the start of the downtime window through the confirmation of business readiness post go-live.
 During that window, the regular escalation hierarchy is too slow. Decisions that would normally take hours need to happen in minutes. The war room compresses the decision chain by putting the right people in the same space (physical or virtual) with a shared view of what is happening, a clear escalation protocol, and pre-agreed decision authority.
