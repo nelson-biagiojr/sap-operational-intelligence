@@ -6,14 +6,14 @@ This repository was built on the principle that **real-world experience beats th
 
 ## How You Can Contribute
 
-```Mermaid
-flowchart TD
-    Node1["Expert in the Field"] -- "Share Battle Scars" --> Node2["Pull Request / Contribution"]
+```mermaid
+graph TD
+    Node1["Expert in the Field"] -- "Share Battle Scars" --> Node2["Contribution"]
     Node2 -- "Review & Validation" --> Node3["SAP Cutover Framework"]
     Node3 -- "Enhanced Best Practices" --> Node4["Global SAP Community"]
     Node4 -- "Better Executed Cutovers" --> Node1
 
-    subgraph FeedbackLoop ["Feedback Loop"]
+    subgraph Feedback_Loop
         Node2
         Node3
     end
