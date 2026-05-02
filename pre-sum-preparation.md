@@ -62,4 +62,10 @@ Strategic Focus: The PM must be shielded from internal company initiatives (e.g.
 Resource Protection: A key responsibility of the PM is to prevent team members (Basis, ABAPers, and Cutover leads) from being diverted to activities outside the project scope, which directly impacts the quality of the cutover plan
 .
 Escalation and Coordination: The PM acts as the primary orchestrator, ensuring that Value Stream consultants respond to project inquiries within the planned timeline—a common bottleneck in multi-system upgrades
-.
+
+---
+7. **Mind Map**
+
+## Pre-SUM Readiness Framework
+
+![Pre-SUM Readiness Framework](assets/pre-sum-readiness-framework.png) 
