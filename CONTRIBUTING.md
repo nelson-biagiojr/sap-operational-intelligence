@@ -7,10 +7,10 @@ This repository was built on the principle that **real-world experience beats th
 ## How You Can Contribute
 
 ```Mermaid
-graph TD
-    Expert[Expert in the Field] -- "Share Battle Scars / Lessons Learned" --> PR[Pull Request / Contribution]
-    PR -- "Review & Validation" --> Framework[SAP Cutover Framework]
-    Framework -- "Enhanced Best Practices" --> GlobalCommunity[Global SAP Community]
+flowchart TD
+    Expert["Expert in the Field"] -- "Share Battle Scars / Lessons Learned" --> PR["Pull Request / Contribution"]
+    PR -- "Review & Validation" --> Framework["SAP Cutover Framework"]
+    Framework -- "Enhanced Best Practices" --> GlobalCommunity["Global SAP Community"]
     GlobalCommunity -- "Better Executed Cutovers" --> Expert
     
     subgraph Feedback_Loop
