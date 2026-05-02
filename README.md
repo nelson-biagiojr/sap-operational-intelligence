@@ -51,6 +51,13 @@ This framework does not prescribe a universal method. It documents what actually
 | [about.md](about.md) | Programs that shaped this framework and context behind the content |
 
 ---
+## 📂 Downloadable Templates
+
+| Template Name | Description | Link |
+| :--- | :--- | :--- |
+| **Cutover Readiness Checklist** | Essential Go/No-Go criteria, including technical and business readiness validation steps. | [Download (.csv)](assets/cutover-readiness-checklist.csv) |
+| **Execution RACI Matrix** | Comprehensive matrix defining roles and responsibilities (RACI) from pre-cutover to hypercare. | [Download (.csv)](assets/cutover-raci-matrix.csv) |
+| **Communication Plan Template** | Structured schedule covering the 8 essential communication templates for stakeholders and C-level. | [Download (.csv)](assets/communication-plan-template.csv) |
 
 ## Core principles behind the framework
 

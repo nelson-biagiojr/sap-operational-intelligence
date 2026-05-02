@@ -1,0 +1,6 @@
+﻿ID;Category;Task;Responsibility (RACI);Go/No-Go Impact;Status
+T01;Technical;Final ECC system backup completed;Basis Lead;Critical;[ ]
+T02;Data;Master data load finalized and reconciled;Data Lead;Critical;[ ]
+B01;Business;Financial inventory validation signed off;Finance Manager;Critical;[ ]
+B02;Business;End-user training 100% completed;Change Mgt;Informational;[ ]
+G01;Governance;Formal Executive Committee (War Room) approval;Program Director;Blocking;[ ]

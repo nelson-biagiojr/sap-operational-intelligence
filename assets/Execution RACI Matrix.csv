@@ -1,0 +1,7 @@
+﻿Task;Program Director;Tech Lead;Business Lead;Regional Team Leads;War Room Support
+Go/No-Go Decision;A;C;I;C;I
+Regional Handoff (Follow-the-sun);A/R;C;I;R;C
+Rollback Protocol Execution;A;R;C;C;I
+Hypercare Incident Triage;I;A;C;R;R
+Data Readiness Sign-off;C;I;A/R;I;C
+(Legend: Responsible, Accountable, Consulted, Informed);;;;;

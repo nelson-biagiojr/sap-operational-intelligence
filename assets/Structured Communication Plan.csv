@@ -1,0 +1,6 @@
+﻿Phase;Target Audience;Frequency;Channel;Reference Template
+Pre-Cutover;All Users;15 days before;Email / Intranet;System Freeze Notice
+Downtime;Technical Teams;Every 4 hours;War Room / Teams;Technical Status Update
+Execution;Executives (C-Level);Every 12 hours;WhatsApp / Email;Executive Summary
+Go-Live;Global Organization;Immediate;Email Broadcast;Go-Live Declaration
+Stabilization;Support / Users;Daily;Dashboard;Hypercare Status
