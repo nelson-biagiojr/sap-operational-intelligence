@@ -88,6 +88,18 @@ It is not a generic IT deployment checklist. The specificity is intentional.
 
 ---
 
+## 🤝 Contributing
+
+**"Cutover is a team sport. Let's build a better playbook together."**
+
+This framework was built from real war room experiences, and it thrives on the shared knowledge of the SAP community. If you are a Program Director, Cutover Lead, or SAP Expert, your "battle scars" and insights are what keep this guide alive and relevant.
+
+Whether you want to share an anonymous **lesson learned**, propose a **new template**, or refine an **AI prompt**, your contribution is welcome.
+
+👉 Please read our [**Contributing Guidelines**](CONTRIBUTING.md) to see how you can help evolve this framework.
+
+---
+
 ## Author
 
 **Nelson Biagio Junior**

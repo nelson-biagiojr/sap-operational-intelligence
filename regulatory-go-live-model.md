@@ -1,7 +1,5 @@
 # Regulatory Go-Live Model — SAP Programs
 
-# Regulatory Go-Live Model — SAP Programs
-
 ![Regulatory Go-Live Model](assets/regulatory-go-live-model.png)
 
 Most SAP go-lives have a negotiable timeline. Regulatory go-lives do not.
