@@ -129,15 +129,15 @@ Programs that apply a previous framework without calibration tend to discover th
 ## Battle Scars from the Field
 
 ### What Went Well (Best Practices)
-*   **On-Site Presence:** Having key experts and managers physically at the client location during Go-Live prevents communication gaps and builds trust [3].
+*   **On-Site Presence:** Having key experts and managers physically at the client location during Go-Live prevents communication gaps and builds trust .
 *   **Issue Review Cycles:** Performing a technical review at the end of every cycle (Mock/Pre-prod) and adding fixes as mandatory tasks for the next cycle [3, 18].
-*   **Humanized Work-of-Work:** Providing food and wellness support (e.g., massages) keeps the team energized during 24/7 operations [17].
-*   **Regional Knowledge Sharing:** Documenting an issue in one region to ensure others can resolve it instantly if it recurs [18].
+*   **Humanized Work-of-Work:** Providing food and wellness support (e.g., massages) keeps the team energized during 24/7 operations .
+*   **Regional Knowledge Sharing:** Documenting an issue in one region to ensure others can resolve it instantly if it recurs .
 
 ### Key Improvements for Future Programs
-*   **Early SLT/Replication Management:** Address data flows and replication (SLT) early to avoid data unavailability post-upgrade [11, 19].
-*   **Strict Freeze Windows:** Discuss and enforce a feasible system freeze window early in the project [20].
-*   **Standardized Naming:** Use standard prefixes (e.g., [UPG2023]) for all tickets to allow for rapid reporting and traceability [21, 22].
+*   **Early SLT/Replication Management:** Address data flows and replication (SLT) early to avoid data unavailability post-upgrade 
+*   **Strict Freeze Windows:** Discuss and enforce a feasible system freeze window early in the project .
+*   **Standardized Naming:** Use standard prefixes (e.g., [UPG2023]) for all tickets to allow for rapid reporting and traceability 
 
 ---
 
