@@ -15,7 +15,8 @@ flowchart TD
     Trigger -- Sim --> Rollback[Iniciar Protocolo de Rollback]
     Trigger -- Não --> Risk[Aceitar Risco & Proceed - Sign-off Executivo]
     
-    style Rollback fill:#f66,stroke:#333```
+    style Rollback fill:#f66,stroke:#333
+```
 
 ## 1. Governance & Readiness
 
