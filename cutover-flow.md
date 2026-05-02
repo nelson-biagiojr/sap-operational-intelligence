@@ -1,5 +1,7 @@
 # Cutover Execution Flow
 
+![SAP Cutover Flow](assets/cutover-flow.png)
+
 ```mermaid 
 graph TD
     A[Pre-Cutover: Readiness Check] --> B[System Freeze & Downtime Window]
@@ -37,6 +39,3 @@ graph TD
 - Stabilization  
 - Transition to AMS  
 
-# Cutover Execution Flow
-
-![SAP Cutover Flow](assets/cutover-flow.png)
