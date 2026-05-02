@@ -110,3 +110,13 @@ For programs with regional leads (RL), the **RL** owns regional execution and es
 2. **Single Accountability:** There must be exactly one "A" per row. If two people are accountable, no one is.
 3. **On-Site Presence:** For go-live, key experts and managers should be on-site to eliminate communication gaps.
 4. **Issue Review:** Perform technical reviews at the end of every cycle and register corrective actions as mandatory tasks for the next cycle.
+
+## Notas Relacionadas
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[Hypercare]]
+- [[ABI-S4Upgrade]]
+- [[Mouts]]
+- [[sap-cutover-framework/sap-war-room-model]]
+- [[sap-cutover-framework/cutover-checklist]]
+- [[sap-cutover-framework/cutover-flow]]

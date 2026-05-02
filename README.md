@@ -125,3 +125,12 @@ Technology Program Director | SAP S/4HANA | M&A Integration
 ## License
 
 MIT — use freely, adapt to your context, attribute if you share.
+
+## Notas Relacionadas
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[Hypercare]]
+- [[ABI-S4Upgrade]]
+- [[sap-cutover-framework/repository-overview]]
+- [[sap-cutover-framework/executive-summary]]
+- [[sap-cutover-framework/about]]

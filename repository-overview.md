@@ -111,3 +111,12 @@ This framework can be adapted to:
 Successful SAP delivery is not about avoiding complexity.
 
 It is about controlling it with structure, clarity, and disciplined execution.
+
+## Notas Relacionadas
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[Hypercare]]
+- [[ABI-S4Upgrade]]
+- [[sap-cutover-framework/executive-summary]]
+- [[sap-cutover-framework/cutover-flow]]
+- [[sap-cutover-framework/lessons-learned]]

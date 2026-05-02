@@ -308,3 +308,13 @@ In programs with regulatory go-live requirements (tax reform, labor reporting), 
 - [ ] Global hypercare coordinator assigned
 - [ ] First 24-hour hypercare report delivered to global SteerCo
 - [ ] First government submission cycle monitored (regulatory programs)
+
+## Notas Relacionadas
+- [[ABI-S4Upgrade]]
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[Hypercare]]
+- [[Mouts]]
+- [[sap-cutover-framework/sap-war-room-model]]
+- [[sap-cutover-framework/cutover-flow]]
+- [[sap-cutover-framework/lessons-learned]]

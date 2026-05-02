@@ -338,3 +338,12 @@ With go-live confirmed, the hypercare support model is now active. This period i
 **After go-live:**
 - Template 8 triggers the formal transition from war room to hypercare
 - Archive all sent communications in the program record
+
+## Notas Relacionadas
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[Hypercare]]
+- [[ABI-S4Upgrade]]
+- [[sap-cutover-framework/cutover-flow]]
+- [[sap-cutover-framework/sap-war-room-model]]
+- [[sap-cutover-framework/cutover-checklist]]

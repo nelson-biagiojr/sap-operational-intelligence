@@ -57,3 +57,14 @@ Typically 2–4 weeks (depending on complexity)
 - Knowledge transfer completed
 - Documentation delivered
 - Support ownership transferred
+
+## Notas Relacionadas
+- [[Hypercare]]
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[ABI-S4Upgrade]]
+- [[RAID-Log]]
+- [[Defect Reporting - Hypercare Procedures]]
+- [[sap-cutover-framework/cutover-flow]]
+- [[sap-cutover-framework/cutover-checklist]]
+- [[2026-04-28-Hypercare-Pos-GoLive]]

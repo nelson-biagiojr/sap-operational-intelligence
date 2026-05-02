@@ -60,3 +60,9 @@ By contributing, you:
 
 ---
 **"Cutover is a team sport. Let's build a better playbook together."**
+
+## Notas Relacionadas
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[sap-cutover-framework/repository-overview]]
+- [[sap-cutover-framework/lessons-learned]]

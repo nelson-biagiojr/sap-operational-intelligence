@@ -142,3 +142,14 @@ The war room is a crisis command structure. It operates well under pressure prec
 It does not replace the cutover plan — the plan is the war room's operational baseline. It does not replace hypercare — hypercare is what comes after the war room stands down. And it does not replace governance — the SteerCo continues to exist; the war room simply compresses the escalation path to it during the critical window.
 When the go-live is declared and the system is stable, the war room stands down. Hypercare takes over. The incident log is handed off. The command structure reverts to normal program governance.
 The goal of the war room is to make itself unnecessary as quickly as possible.
+
+## Notas Relacionadas
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[Hypercare]]
+- [[ABI-S4Upgrade]]
+- [[Mouts]]
+- [[RAID-Log]]
+- [[sap-cutover-framework/multi-region-cutover-playbook]]
+- [[sap-cutover-framework/cutover-flow]]
+- [[sap-cutover-framework/raci-cutover-template]]

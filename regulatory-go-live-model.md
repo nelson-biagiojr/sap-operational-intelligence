@@ -261,3 +261,13 @@ This model ensures that the **War Room** maintains its discipline under the high
 | Configuration freeze | Technical freeze | Compliance freeze — earlier, harder, documented |
 | Test sign-off | Functional + business | Functional + business + legal/tax |
 | Post-go-live risk | Operational disruption | Operational disruption + regulatory exposure |
+
+## Notas Relacionadas
+- [[Reforma-Tributaria]]
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[ABB-TaxReform]]
+- [[TAX Reform - Cutover]]
+- [[sap-cutover-framework/common-cutover-failures]]
+- [[sap-cutover-framework/cutover-flow]]
+- [[sap-cutover-framework/lessons-learned]]

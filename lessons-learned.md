@@ -148,3 +148,14 @@ They are all about decisions made before the cutover window opens.
 The window reveals preparation gaps. It does not create them. A Cutover Lead who walks into the downtime window without clear decision authority, without pre-agreed rollback criteria, without a structured war room protocol, and without a business validation sign-off process is not managing a cutover — they are hoping one doesn't happen to them.
 
 Preparation is not a phase. It is the outcome of every governance decision made in the 6 weeks before go-live.
+
+## Notas Relacionadas
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[Hypercare]]
+- [[ABI-S4Upgrade]]
+- [[RAID-Log]]
+- [[Mouts]]
+- [[sap-cutover-framework/common-cutover-failures]]
+- [[sap-cutover-framework/multi-region-cutover-playbook]]
+- [[sap-cutover-framework/sap-war-room-model]]

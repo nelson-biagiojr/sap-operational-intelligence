@@ -79,3 +79,14 @@ flowchart TD
 - Parallel processing enabled where possible
 - Manual workaround procedures available
 - Decision escalation matrix defined
+
+## Notas Relacionadas
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[Hypercare]]
+- [[RAID-Log]]
+- [[ABI-S4Upgrade]]
+- [[sap-cutover-framework/cutover-flow]]
+- [[sap-cutover-framework/raci-cutover-template]]
+- [[sap-cutover-framework/sap-war-room-model]]
+- [[Defect Reporting - Hypercare Procedures]]

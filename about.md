@@ -50,3 +50,12 @@ Contact
 ## Final Note
 
 This repository reflects practical, real-world SAP program experience — focused on execution, control, and delivering results in complex environments.
+
+## Notas Relacionadas
+- [[Nelson Biagio - SAP Profile]]
+- [[ABI-S4Upgrade]]
+- [[S4HANA]]
+- [[Mouts]]
+- [[SAP Cutover Framework]]
+- [[sap-cutover-framework/lessons-learned]]
+- [[sap-cutover-framework/multi-region-cutover-playbook]]

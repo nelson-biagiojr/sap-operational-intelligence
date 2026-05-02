@@ -95,3 +95,14 @@ What actually works: Executive updates are prepared from the issue log, not from
 ## Pattern summary
 Failure categoryRoot causePoint of interventionGovernanceDecision authority unclear or too slowCutover planning phasePlanningSequencing assumptions, not dependencies4–6 weeks before go-liveExecutionScope gaps, resource risks, informal coordinationCutover readiness reviewMulti-regionIncident visibility, handoff gaps, premature declarationsWar room protocol designCommunicationFormat drift, improvisation, parallel escalationWar room briefing
 The common thread: most cutover failures are predictable. They originate in decisions — or the absence of decisions — made weeks before the downtime window opens. The window just reveals them.
+
+## Notas Relacionadas
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[Hypercare]]
+- [[RAID-Log]]
+- [[ABI-S4Upgrade]]
+- [[Reforma-Tributaria]]
+- [[sap-cutover-framework/lessons-learned]]
+- [[sap-cutover-framework/cutover-checklist]]
+- [[sap-cutover-framework/pre-sum-preparation]]

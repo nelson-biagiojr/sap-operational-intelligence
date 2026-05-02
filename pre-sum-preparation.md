@@ -63,3 +63,12 @@ Resource Protection: A key responsibility of the PM is to prevent team members (
 .
 Escalation and Coordination: The PM acts as the primary orchestrator, ensuring that Value Stream consultants respond to project inquiries within the planned timeline—a common bottleneck in multi-system upgrades
 .
+
+## Notas Relacionadas
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[ABI-S4Upgrade]]
+- [[G4S]]
+- [[sap-cutover-framework/common-cutover-failures]]
+- [[sap-cutover-framework/cutover-checklist]]
+- [[sap-cutover-framework/data-migration-cutover-integration]]

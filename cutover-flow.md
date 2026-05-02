@@ -37,5 +37,14 @@ graph TD
 ## Phase 4 – Hypercare
 - Incident management  
 - Stabilization  
-- Transition to AMS  
+- Transition to AMS
 
+## Notas Relacionadas
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[Hypercare]]
+- [[ABI-S4Upgrade]]
+- [[RAID-Log]]
+- [[sap-cutover-framework/cutover-checklist]]
+- [[sap-cutover-framework/sap-war-room-model]]
+- [[sap-cutover-framework/data-migration-cutover-integration]]

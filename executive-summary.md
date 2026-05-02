@@ -28,3 +28,13 @@ This repository provides a structured, execution-driven framework covering:
 ## Positioning
 
 Designed for complex SAP environments with multiple systems and global stakeholders.
+
+## Notas Relacionadas
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[Hypercare]]
+- [[RAID-Log]]
+- [[ABI-S4Upgrade]]
+- [[sap-cutover-framework/repository-overview]]
+- [[sap-cutover-framework/cutover-flow]]
+- [[sap-cutover-framework/sap-war-room-model]]

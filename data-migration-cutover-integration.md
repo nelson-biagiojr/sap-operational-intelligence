@@ -157,3 +157,13 @@ Mitigation: post-go-live migration activities are planned, owned, and scheduled 
 - [ ] Non-blocking discrepancies logged as hypercare items with owners and SLAs
 - [ ] Historical data migration scheduled and tracked
 - [ ] Migration workstream formally closed when all tail activities are complete
+
+## Notas Relacionadas
+- [[SAP Cutover Framework]]
+- [[S4HANA]]
+- [[ABI-S4Upgrade]]
+- [[Hypercare]]
+- [[RAID-Log]]
+- [[sap-cutover-framework/cutover-flow]]
+- [[sap-cutover-framework/cutover-checklist]]
+- [[sap-cutover-framework/pre-sum-preparation]]

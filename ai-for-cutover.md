@@ -44,3 +44,12 @@ AI helps simulate the impact of decisions when time is the most scarce resource.
 
 ## Positioning
 This framework combines **traditional SAP delivery expertise** — built from real-world programs like CBMM and AB InBev — with **AI-enabled management**, shifting the cutover lead's role from data gatherer to strategic decision-maker [2, 3].
+
+## Notas Relacionadas
+- [[IA]]
+- [[S4HANA]]
+- [[ABI-S4Upgrade]]
+- [[Hypercare]]
+- [[SAP Cutover Framework]]
+- [[sap-cutover-framework/cutover-flow]]
+- [[sap-cutover-framework/sap-war-room-model]]
