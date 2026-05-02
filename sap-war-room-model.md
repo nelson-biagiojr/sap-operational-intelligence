@@ -4,28 +4,32 @@
 
 ![Cutover War Room](assets/cutover-war-room-structure.png)
 
-```mermaid graph LR subgraph Governance Exec[Executive Committee] end
-subgraph Global_Command
-    PD[Program Director / War Room Central]
-end
+```mermaid 
+graph LR
+    subgraph Governance
+        Exec[Executive Committee]
+    end
+    
+    subgraph Global_Command
+        PD[Program Director / War Room Central]
+    end
+    
+    subgraph Regional_Hubs
+        AMER[Americas Hub]
+        EMEA[EMEA Hub]
+        APAC[APAC Hub]
+    end
 
-subgraph Regional_Hubs
-    AMER[Americas Hub]
-    EMEA[EMEA Hub]
-    APAC[APAC Hub]
-end
+    Exec <--> PD
+    PD <--> AMER
+    PD <--> EMEA
+    PD <--> APAC
+    
+    AMER -- Handoff --> EMEA
+    EMEA -- Handoff --> APAC
+    APAC -- Handoff --> AMER
 
-Exec <--> PD
-PD <--> AMER
-PD <--> EMEA
-PD <--> APAC
-
-AMER -- Handoff --> EMEA
-EMEA -- Handoff --> APAC
-APAC -- Handoff --> AMER
-
-style PD fill:#bbf,stroke:#333,stroke-width:2px
-```
+    style PD fill:#bbf,stroke:#333,stroke-width:2px```
 
 ---------------------------------------------------------------------
 

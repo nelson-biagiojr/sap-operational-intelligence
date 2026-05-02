@@ -4,7 +4,8 @@
 
 ![Cutover Decision Flow](assets/cutover-decision-flow.png)
 
-```mermaid flowchart TD
+```mermaid 
+flowchart TD
     Start([Incidente Identificado]) --> Impact{Impacto Crítico?}
     Impact -- Não --> Log[Log & Track em Hypercare]
     Impact -- Sim --> Escalate[Escalonamento para War Room]

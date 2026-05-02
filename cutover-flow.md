@@ -1,6 +1,7 @@
 # Cutover Execution Flow
 
-```mermaid graph TD
+```mermaid 
+graph TD
     A[Pre-Cutover: Readiness Check] --> B[System Freeze & Downtime Window]
     B --> C[Data Migration & Reconciliation]
     C --> D{Phase Gate: Data Sign-off}
