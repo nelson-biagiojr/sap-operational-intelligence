@@ -404,6 +404,12 @@ They appear in stabilization timelines, incident volumes,
 support costs, and business continuity metrics.
 
 ---
+## Go-Live Operational Mind Map
+
+<p align="center">
+  <img src="./go-live-maturity-model/go-live-maturity-model/images/mind-map.png" width="100%">
+</p>
+
 
 ## Final Observation
 
