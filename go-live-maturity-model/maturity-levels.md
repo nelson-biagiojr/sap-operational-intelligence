@@ -51,6 +51,12 @@ Most are operating at Level 2.
 
 ## Level 1 — Reactive
 
+# Level 1 — Reactive
+
+<p align="center">
+  <img src="./go-live-maturity-model/images/level-1-reactive.png" width="100%">
+</p>
+
 ### What It Looks Like
 
 Go-live execution depends on individuals, not systems.
