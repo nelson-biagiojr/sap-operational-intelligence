@@ -104,6 +104,18 @@ to compensate for the absence of process.
 
 ## Level 2 — Structured
 
+---
+
+# Level 2 — Structured
+
+<p align="center">
+  <img src="./go-live-maturity-model/images/level-2-structured.png" width="100%">
+</p>
+
+## Executive Summary
+
+The organization establishes formal cutover processes and governance checkpoints, but execution remains heavily reactive during operational instability.
+
 ### What It Looks Like
 
 The organization recognizes the problem and responds with process.
