@@ -1,7 +1,7 @@
 # Operational Metrics for SAP Go-Live Excellence
 
 <p align="center">
-  <img src="./go-live-maturity-model/images/operational-metrics-framework-overview.png" width="100%">
+  <img src="./images/operational-metrics-framework-overview.png" width="100%">
 </p>
 
 

@@ -1,7 +1,7 @@
 # SAP Go-Live Maturity Levels
 
 <p align="center">
-  <img src="./go-live-maturity-model/images/maturity-levels-overview.png" width="100%">
+  <img src="./images/maturity-levels-overview.png" width="100%">
 </p>
 
 A practical framework to evaluate how organizations execute SAP go-lives
@@ -50,7 +50,7 @@ Most are operating at Level 2.
 # Level 1 — Reactive
 
 <p align="center">
-  <img src="./go-live-maturity-model/images/level-1-reactive.png" width="100%">
+  <img src="./images/level-1-reactive.png" width="100%">
 </p>
 
 ### What It Looks Like
@@ -109,7 +109,7 @@ to compensate for the absence of process.
 # Level 2 — Structured
 
 <p align="center">
-  <img src="./go-live-maturity-model/images/level-2-structured.png" width="100%">
+  <img src="./images/level-2-structured.png" width="100%">
 </p>
 
 
@@ -167,7 +167,7 @@ within their own lane. Cross-lane problems still create confusion.
 ## Level 3 — Controlled
 
 <p align="center">
-  <img src="./go-live-maturity-model/images/level-3-controlled.png" width="100%">
+  <img src="./images/level-3-controlled.png" width="100%">
 </p>
 
 ### What It Looks Like
@@ -231,7 +231,7 @@ The difference matters. A project ends. A capability scales.
 ## Level 4 — Predictive
 
 <p align="center">
-  <img src="./go-live-maturity-model/images/level-4-predictive.png" width="100%">
+  <img src="./images/level-4-predictive.png" width="100%">
 </p>
 
 ### What It Looks Like
@@ -289,7 +289,7 @@ when it was inconvenient to do so.
 ## Level 5 — Adaptive
 
 <p align="center">
-  <img src="./go-live-maturity-model/images/level-5-adaptive.png" width="100%">
+  <img src="./images/level-5-adaptive.png" width="100%">
 </p>
 
 ### What It Looks Like
@@ -342,7 +342,7 @@ that no model has been trained to recognize.
 ## The Transition Map
 
 <p align="center">
-  <img src="./go-live-maturity-model/images/transition-map.png" width="100%">
+  <img src="./images/transition-map.png" width="100%">
 </p>
 
 Level 1 — Reactive
@@ -407,7 +407,7 @@ support costs, and business continuity metrics.
 ## Go-Live Operational Mind Map
 
 <p align="center">
-  <img src="./go-live-maturity-model/images/mind-map.png" width="100%">
+  <img src="./images/mind-map.png" width="100%">
 </p>
 
 ## Final Observation

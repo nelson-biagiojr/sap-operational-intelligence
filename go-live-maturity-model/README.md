@@ -5,7 +5,7 @@ A practical and executive-oriented framework to evaluate, structure, and evolve 
 ## SAP Go-Live Operational Maturity Framework (GOMF)
 
 <p align="center">
-  <img src="./go-live-maturity-model/images/sap-go-live-operational-maturity-framework.png" width="100%">
+  <img src="./images/sap-go-live-operational-maturity-framework.png" width="100%">
 </p>
 
 <p align="center">
