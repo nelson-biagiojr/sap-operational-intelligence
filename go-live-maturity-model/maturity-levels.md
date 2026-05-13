@@ -342,7 +342,7 @@ that no model has been trained to recognize.
 ## The Transition Map
 
 <p align="center">
-  <img src="./go-live-maturity-model/images/maturity-transition-map.png" width="100%">
+  <img src="./go-live-maturity-model/images/transition-map.png" width="100%">
 </p>
 
 Level 1 — Reactive
