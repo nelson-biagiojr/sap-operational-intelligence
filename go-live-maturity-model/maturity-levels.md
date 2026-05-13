@@ -410,7 +410,6 @@ support costs, and business continuity metrics.
   <img src="./go-live-maturity-model/go-live-maturity-model/images/mind-map.png" width="100%">
 </p>
 
-
 ## Final Observation
 
 Most SAP go-live failures do not begin on deployment weekend.
