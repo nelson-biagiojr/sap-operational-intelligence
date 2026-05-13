@@ -2,8 +2,10 @@
 
 # SAP Go-Live Maturity Levels
 
+# SAP Go-Live Maturity Levels
+
 <p align="center">
-  <img src="./images/maturity-levels-overview.png" width="100%">
+  <img src="./go-live-maturity-model/images/maturity-levels-overview.png" width="100%">
 </p>
 
 A practical framework to evaluate how organizations execute SAP go-lives
