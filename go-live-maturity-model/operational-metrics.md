@@ -773,6 +773,12 @@ into:
 
 ---
 
+# Mind Map
+
+<p align="center">
+  <img src="./images/mind-map-2.png" width="100%">
+</p>
+
 # Final Thoughts
 
 Operational metrics are not merely dashboards.
