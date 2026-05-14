@@ -117,6 +117,8 @@ across the SAP transformation lifecycle.
 | [Data Migration Cutover Integration](./data-migration-cutover-integration.md) | Data migration operational integration model |
 | [Repository Overview](./repository-overview.md) | High-level repository structure and navigation |
 | [About](./about.md) | Repository purpose and strategic vision |
+| [Go-Live Maturity Model](./go-live-maturity-model/README.md) | Operational maturity framework for SAP go-live governance |
+| [Contributing](./CONTRIBUTING.md) | Contribution guidelines for the framework |
 
 ---
 
@@ -201,6 +203,16 @@ Specialized in:
 - stabilization management
 - operational governance
 - executive delivery management
+
+---
+
+# Contributing
+
+Contributions, suggestions, and improvements are welcome.
+
+Please see the contribution guidelines:
+
+- [Contributing Guide](./CONTRIBUTING.md)
 
 ---
 
