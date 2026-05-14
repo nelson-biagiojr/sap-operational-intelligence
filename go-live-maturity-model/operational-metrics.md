@@ -381,7 +381,11 @@ HSI = 75
 
 ---
 
-# 5. Command Center Efficiency (CCE)
+## Command Center Efficiency (CCE) 
+
+<p align="center">
+  <img src="./images/command-center-efficiency-dashboard.png" width="100%">
+</p>
 
 ## Objective
 
@@ -442,6 +446,11 @@ CCE = 82.5
 ---
 
 # 6. Transport Governance Index (TGI)
+
+<p align="center">
+  <img src="./images/transport-governance-index-dashboard.png" width="100%">
+</p>
+
 
 ## Objective
 
