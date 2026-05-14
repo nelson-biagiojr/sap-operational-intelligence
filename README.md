@@ -1,6 +1,6 @@
 # SAP Cutover Framework
 
-<p align="left">
+<p align="center">
 
 ![Release](https://img.shields.io/github/v/release/nelson-biagiojr/sap-cutover-framework)
 ![License](https://img.shields.io/github/license/nelson-biagiojr/sap-cutover-framework)
@@ -12,6 +12,8 @@
 </p>
 
 ## Operational Governance, Stabilization Intelligence and Executive Telemetry for SAP Transformations
+
+<br>
 
 <p align="center">
   <img src="./go-live-maturity-model/images/sap-go-live-operational-maturity-framework.png" width="100%">
