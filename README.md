@@ -1,5 +1,12 @@
 # SAP Cutover Framework
 
+![Release](https://img.shields.io/github/v/release/nelson-biagiojr/sap-cutover-framework)
+![License](https://img.shields.io/github/license/nelson-biagiojr/sap-cutover-framework)
+![Stars](https://img.shields.io/github/stars/nelson-biagiojr/sap-cutover-framework)
+![Last Commit](https://img.shields.io/github/last-commit/nelson-biagiojr/sap-cutover-framework)
+![Repo Size](https://img.shields.io/github/repo-size/nelson-biagiojr/sap-cutover-framework)
+![Issues](https://img.shields.io/github/issues/nelson-biagiojr/sap-cutover-framework)
+
 ## Operational Governance, Stabilization Intelligence and Executive Telemetry for SAP Transformations
 
 <p align="center">
