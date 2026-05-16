@@ -1,0 +1,501 @@
+Incident_ID,Created_At,Country,Stream,Severity,Business_Impact,Status,Aging_Hours,Escalated,Escalation_Level,Recovery_Time_Hours,Recurrence,Hypercare_Phase,War_Room,Decision_Cycle_Min,Cross_Team_Dependency,Executive_Visibility,Rollback_Readiness,HSI,ORE,SV,SFI,CCE,RRS
+INC940001,2026-04-03 08:00:00,Canada,FI,Sev4,Low,Monitoring,9,No,None,14,No,Week 4,North America War Room,99,Low,Low,73,58,40,-12,51,59,70
+INC940002,2026-04-20 08:00:00,Argentina,Basis,Sev4,Low,Resolved,5,No,None,32,No,Week 3,North America War Room,20,Low,High,87,60,20,14,58,83,97
+INC940003,2026-04-26 03:00:00,Argentina,TM,Sev2,High,Monitoring,33,No,None,35,Yes,Week 2,North America War Room,106,Low,Medium,62,90,17,14,71,56,74
+INC940004,2026-04-03 10:00:00,Canada,Basis,Sev4,Medium,Monitoring,11,Yes,L2,22,No,Week 2,North America War Room,102,Medium,Low,96,92,39,13,52,78,82
+INC940005,2026-04-17 05:00:00,Brazil,MDG,Sev2,Critical,Monitoring,5,No,None,27,Yes,Week 2,LATAM Command Center,72,High,Low,74,91,52,-8,73,98,67
+INC940006,2026-04-20 16:00:00,Mexico,ABAP,Sev1,Critical,Monitoring,25,Yes,L3,28,Yes,Week 1,Global Hypercare Hub,85,High,High,96,95,71,17,51,95,76
+INC940007,2026-04-16 15:00:00,Mexico,MDG,Sev3,High,Resolved,10,No,None,13,No,Week 1,North America War Room,38,Low,Medium,73,96,64,15,80,62,89
+INC940008,2026-04-09 09:00:00,USA,FI,Sev3,High,Open,22,No,None,27,No,Week 2,North America War Room,87,Low,Medium,85,69,31,-10,51,68,83
+INC940009,2026-04-15 11:00:00,Canada,TM,Sev2,High,In Progress,46,Yes,L1,33,No,Week 3,LATAM Command Center,19,Medium,High,78,88,47,13,85,60,65
+INC940010,2026-04-16 00:00:00,USA,TM,Sev1,Critical,Resolved,66,Yes,L1,14,No,Week 3,LATAM Command Center,69,Low,Medium,65,86,15,-9,71,60,80
+INC940011,2026-04-26 16:00:00,Canada,CO,Sev4,Low,Resolved,5,No,None,9,Yes,Week 4,North America War Room,97,High,Medium,70,70,45,8,66,62,84
+INC940012,2026-04-28 20:00:00,Brazil,MDG,Sev2,High,Resolved,12,No,None,15,No,Week 1,North America War Room,84,Low,High,64,89,63,13,83,73,80
+INC940013,2026-04-03 12:00:00,Chile,SD,Sev2,Critical,In Progress,46,Yes,L1,23,Yes,Week 1,North America War Room,96,Low,Medium,88,70,30,0,84,71,80
+INC940014,2026-04-06 12:00:00,Mexico,MDG,Sev2,High,In Progress,25,Yes,L2,2,No,Week 4,North America War Room,53,Low,Medium,76,65,60,-3,93,71,81
+INC940015,2026-04-22 23:00:00,Argentina,FI,Sev4,Medium,Monitoring,8,Yes,L1,12,Yes,Week 4,LATAM Command Center,56,Medium,Low,89,91,57,7,83,77,90
+INC940016,2026-04-04 02:00:00,Mexico,Basis,Sev3,High,In Progress,23,No,None,2,No,Week 3,LATAM Command Center,79,High,High,81,75,61,5,85,59,98
+INC940017,2026-04-16 01:00:00,Argentina,ABAP,Sev1,Critical,Resolved,22,Yes,L3,24,No,Week 4,Global Hypercare Hub,39,Medium,Low,98,89,44,-10,91,78,73
+INC940018,2026-04-06 00:00:00,Colombia,TM,Sev3,Medium,Open,3,No,None,35,Yes,Week 4,LATAM Command Center,39,High,High,87,84,53,4,67,81,74
+INC940019,2026-04-17 06:00:00,Argentina,Basis,Sev3,Medium,Resolved,2,Yes,L1,34,Yes,Week 2,North America War Room,86,High,Low,63,65,17,6,76,75,96
+INC940020,2026-04-19 16:00:00,Peru,SD,Sev2,High,Resolved,34,Yes,L3,17,No,Week 4,LATAM Command Center,114,High,High,88,63,26,18,67,98,69
+INC940021,2026-04-06 15:00:00,Peru,SD,Sev3,High,Resolved,9,No,None,32,Yes,Week 4,LATAM Command Center,24,Low,Medium,77,60,65,-2,48,94,89
+INC940022,2026-04-23 05:00:00,Canada,MDG,Sev2,Critical,Resolved,13,No,None,6,No,Week 1,North America War Room,72,Low,High,61,71,51,6,63,75,73
+INC940023,2026-04-11 22:00:00,Colombia,MDG,Sev4,Medium,Monitoring,1,Yes,L1,21,No,Week 3,Global Hypercare Hub,77,Low,High,89,79,18,4,51,71,89
+INC940024,2026-04-30 02:00:00,Colombia,MM,Sev3,Medium,Resolved,3,No,None,22,No,Week 3,Global Hypercare Hub,73,Medium,High,63,76,32,-4,64,66,77
+INC940025,2026-04-20 15:00:00,Chile,Basis,Sev4,Medium,Resolved,3,No,None,29,Yes,Week 1,LATAM Command Center,71,Low,Low,70,70,33,5,66,79,93
+INC940026,2026-04-24 06:00:00,Colombia,Basis,Sev3,High,Resolved,13,Yes,L2,13,No,Week 3,Global Hypercare Hub,101,Low,High,89,96,54,2,92,57,66
+INC940027,2026-04-22 01:00:00,Argentina,TM,Sev2,High,Open,26,No,None,36,No,Week 4,LATAM Command Center,103,Low,High,79,96,51,3,81,73,69
+INC940028,2026-04-25 05:00:00,Canada,FI,Sev2,High,Monitoring,35,No,None,27,Yes,Week 1,LATAM Command Center,78,High,Medium,72,71,49,-1,58,85,74
+INC940029,2026-04-22 04:00:00,Colombia,FI,Sev3,Medium,Open,18,Yes,L2,35,Yes,Week 2,Global Hypercare Hub,118,Medium,Low,63,89,63,3,76,85,78
+INC940030,2026-04-15 10:00:00,Canada,SD,Sev2,Critical,Resolved,17,No,None,2,Yes,Week 2,LATAM Command Center,68,Low,Medium,83,76,67,5,57,87,67
+INC940031,2026-04-30 00:00:00,USA,SD,Sev3,High,Open,5,No,None,13,No,Week 1,LATAM Command Center,30,Low,Low,61,58,25,-8,48,58,97
+INC940032,2026-04-25 11:00:00,Argentina,SD,Sev2,High,In Progress,43,Yes,L1,25,No,Week 4,North America War Room,91,High,Medium,77,87,26,9,71,55,65
+INC940033,2026-04-07 13:00:00,Brazil,TM,Sev4,Low,Monitoring,6,Yes,L3,31,No,Week 3,Global Hypercare Hub,47,Medium,High,83,88,70,14,82,70,75
+INC940034,2026-04-30 03:00:00,Canada,CO,Sev3,High,Monitoring,18,No,None,2,Yes,Week 2,North America War Room,59,Low,Medium,75,67,56,15,65,62,64
+INC940035,2026-04-10 15:00:00,Argentina,MDG,Sev2,High,Resolved,18,Yes,L3,21,No,Week 1,Global Hypercare Hub,88,High,Medium,89,93,72,-5,90,87,79
+INC940036,2026-04-01 19:00:00,Peru,FI,Sev1,Critical,Resolved,62,No,None,30,Yes,Week 3,LATAM Command Center,94,High,High,63,65,45,15,49,66,73
+INC940037,2026-04-20 01:00:00,Colombia,Basis,Sev3,High,Resolved,18,No,None,23,No,Week 3,LATAM Command Center,75,Low,High,74,67,41,15,82,62,62
+INC940038,2026-04-06 09:00:00,Mexico,SD,Sev2,High,In Progress,41,Yes,L3,24,Yes,Week 2,North America War Room,83,Low,High,93,95,18,11,56,83,75
+INC940039,2026-04-10 00:00:00,USA,TM,Sev2,Critical,In Progress,36,No,None,6,No,Week 1,Global Hypercare Hub,115,High,Medium,72,60,59,13,65,82,75
+INC940040,2026-04-19 17:00:00,Chile,CO,Sev4,Low,In Progress,10,Yes,L1,35,No,Week 3,North America War Room,67,Low,Medium,71,79,59,-8,75,67,95
+INC940041,2026-04-03 18:00:00,Colombia,MDG,Sev3,Medium,Open,14,Yes,L1,28,No,Week 2,Global Hypercare Hub,83,Low,High,73,76,51,-11,72,96,65
+INC940042,2026-04-24 04:00:00,Argentina,SD,Sev4,Medium,Monitoring,4,No,None,21,Yes,Week 2,LATAM Command Center,10,Low,High,76,69,55,-4,80,56,77
+INC940043,2026-04-22 21:00:00,Canada,TM,Sev4,Medium,Monitoring,4,Yes,L1,15,No,Week 1,LATAM Command Center,31,High,Low,65,80,48,-1,83,95,93
+INC940044,2026-04-23 02:00:00,Peru,FI,Sev4,Medium,Open,8,No,None,36,Yes,Week 2,LATAM Command Center,92,High,High,91,89,22,-1,64,85,80
+INC940045,2026-04-15 12:00:00,Colombia,TM,Sev1,Critical,Open,29,Yes,L2,31,Yes,Week 4,LATAM Command Center,90,High,Medium,68,89,41,2,73,73,95
+INC940046,2026-04-18 04:00:00,USA,ABAP,Sev2,Critical,Open,36,Yes,L2,3,No,Week 2,LATAM Command Center,22,Low,High,74,60,28,10,79,65,64
+INC940047,2026-04-14 22:00:00,Colombia,TM,Sev2,High,Monitoring,28,No,None,11,No,Week 1,Global Hypercare Hub,63,Medium,High,99,90,69,-12,92,79,82
+INC940048,2026-04-23 21:00:00,Peru,MDG,Sev4,Low,Monitoring,12,Yes,L1,5,Yes,Week 3,Global Hypercare Hub,23,High,Medium,97,79,18,-9,57,79,97
+INC940049,2026-04-15 13:00:00,Canada,SD,Sev3,Medium,In Progress,23,Yes,L2,10,No,Week 1,North America War Room,113,Low,High,60,87,20,-12,48,68,69
+INC940050,2026-04-01 08:00:00,Chile,CO,Sev4,Low,Open,11,Yes,L2,11,Yes,Week 1,North America War Room,55,High,High,92,84,19,-11,88,68,83
+INC940051,2026-04-14 15:00:00,Chile,SD,Sev3,Medium,Open,19,Yes,L1,1,Yes,Week 2,Global Hypercare Hub,19,Medium,High,75,79,39,-8,85,91,99
+INC940052,2026-04-03 07:00:00,Chile,FI,Sev3,High,Resolved,18,No,None,3,Yes,Week 3,Global Hypercare Hub,86,High,Low,75,83,22,15,79,78,72
+INC940053,2026-04-20 19:00:00,USA,TM,Sev3,Medium,Monitoring,11,No,None,4,Yes,Week 3,LATAM Command Center,10,Medium,Medium,89,59,44,6,59,89,78
+INC940054,2026-04-12 02:00:00,Argentina,ABAP,Sev2,High,Monitoring,21,No,None,7,Yes,Week 4,LATAM Command Center,31,Low,High,89,84,37,-1,56,85,65
+INC940055,2026-04-13 08:00:00,Argentina,FI,Sev2,Critical,Open,36,Yes,L1,23,Yes,Week 1,LATAM Command Center,92,Medium,Medium,86,59,59,-8,80,72,97
+INC940056,2026-04-07 07:00:00,Colombia,ABAP,Sev3,High,Resolved,17,No,None,30,Yes,Week 4,LATAM Command Center,24,Medium,Medium,87,58,67,18,87,56,89
+INC940057,2026-04-19 12:00:00,Peru,TM,Sev3,High,Resolved,19,No,None,34,No,Week 2,North America War Room,24,Low,High,98,81,59,10,49,69,67
+INC940058,2026-04-22 20:00:00,Brazil,MDG,Sev3,Medium,Monitoring,12,Yes,L2,23,No,Week 3,Global Hypercare Hub,65,Low,Medium,73,90,33,6,89,66,94
+INC940059,2026-04-18 18:00:00,Mexico,Basis,Sev2,Critical,Open,26,No,None,6,No,Week 2,Global Hypercare Hub,73,Medium,Medium,77,77,56,18,63,74,84
+INC940060,2026-04-10 23:00:00,Colombia,SD,Sev1,Critical,In Progress,66,Yes,L2,25,No,Week 2,North America War Room,107,High,Low,67,80,43,5,84,91,77
+INC940061,2026-04-05 17:00:00,Canada,MDG,Sev4,Medium,Monitoring,3,No,None,21,Yes,Week 3,Global Hypercare Hub,22,High,Medium,91,77,42,-9,83,64,66
+INC940062,2026-04-11 22:00:00,Brazil,SD,Sev4,Medium,Monitoring,5,No,None,30,Yes,Week 2,LATAM Command Center,96,Medium,Low,71,86,60,4,76,58,78
+INC940063,2026-04-03 21:00:00,Peru,CO,Sev1,Critical,In Progress,52,Yes,L1,27,Yes,Week 1,LATAM Command Center,65,Medium,Low,62,60,58,11,74,95,86
+INC940064,2026-04-18 07:00:00,USA,Basis,Sev3,High,Resolved,6,Yes,L3,22,No,Week 4,North America War Room,11,High,High,85,72,39,1,88,84,86
+INC940065,2026-04-29 20:00:00,USA,CO,Sev3,Medium,Monitoring,24,No,None,3,No,Week 2,LATAM Command Center,110,Medium,High,80,86,65,7,60,57,66
+INC940066,2026-04-14 02:00:00,Mexico,Basis,Sev2,High,Monitoring,48,Yes,L2,31,No,Week 2,Global Hypercare Hub,31,Medium,Low,73,79,42,9,84,62,90
+INC940067,2026-04-17 10:00:00,Chile,MM,Sev3,Medium,In Progress,2,Yes,L2,6,No,Week 1,LATAM Command Center,27,Low,High,85,63,45,-5,71,59,60
+INC940068,2026-04-05 03:00:00,Canada,MDG,Sev4,Medium,In Progress,3,No,None,24,No,Week 4,North America War Room,74,Low,High,63,65,31,1,89,94,79
+INC940069,2026-04-05 11:00:00,Peru,SD,Sev4,Medium,Resolved,9,No,None,17,No,Week 4,North America War Room,96,Low,Medium,98,75,56,2,86,75,89
+INC940070,2026-04-25 20:00:00,Argentina,Basis,Sev3,Medium,Resolved,10,No,None,18,No,Week 1,LATAM Command Center,105,Low,Low,67,64,33,-10,78,82,61
+INC940071,2026-04-08 19:00:00,Canada,TM,Sev3,High,Resolved,22,Yes,L2,27,No,Week 3,North America War Room,97,High,High,95,84,38,7,71,73,90
+INC940072,2026-04-01 05:00:00,Chile,ABAP,Sev4,Medium,In Progress,10,Yes,L1,22,Yes,Week 3,Global Hypercare Hub,90,Low,Medium,98,84,67,6,73,96,78
+INC940073,2026-04-14 21:00:00,Colombia,CO,Sev3,High,In Progress,14,Yes,L3,12,No,Week 1,LATAM Command Center,46,High,Low,84,87,41,3,88,84,61
+INC940074,2026-04-20 02:00:00,Mexico,Basis,Sev1,Critical,In Progress,23,No,None,13,Yes,Week 3,North America War Room,58,Medium,Medium,98,84,25,11,85,90,61
+INC940075,2026-04-10 12:00:00,Colombia,ABAP,Sev3,Medium,Monitoring,9,No,None,34,No,Week 3,LATAM Command Center,69,Medium,Medium,83,92,72,9,87,94,65
+INC940076,2026-04-03 02:00:00,Argentina,SD,Sev3,Medium,Monitoring,20,No,None,35,Yes,Week 4,LATAM Command Center,56,Low,High,90,74,36,0,71,77,98
+INC940077,2026-04-14 01:00:00,Colombia,FI,Sev4,Low,Resolved,11,No,None,10,Yes,Week 4,LATAM Command Center,80,Medium,Medium,64,63,17,16,53,70,81
+INC940078,2026-04-06 00:00:00,Mexico,Basis,Sev2,High,In Progress,23,Yes,L1,36,Yes,Week 3,North America War Room,22,High,Medium,94,64,65,10,95,64,89
+INC940079,2026-04-16 00:00:00,Mexico,Basis,Sev4,Low,In Progress,4,Yes,L1,11,No,Week 3,LATAM Command Center,110,High,Medium,80,62,45,-8,61,72,92
+INC940080,2026-04-26 11:00:00,USA,MDG,Sev4,Medium,Resolved,8,Yes,L2,30,No,Week 4,North America War Room,81,High,Low,70,67,21,-8,88,72,87
+INC940081,2026-04-13 07:00:00,Colombia,ABAP,Sev4,Low,In Progress,5,No,None,15,No,Week 4,North America War Room,37,Medium,High,94,79,55,13,86,84,69
+INC940082,2026-04-11 23:00:00,Mexico,MM,Sev2,Critical,Open,27,Yes,L1,34,Yes,Week 3,LATAM Command Center,67,Low,Medium,80,88,23,0,94,79,60
+INC940083,2026-04-04 22:00:00,Chile,CO,Sev3,High,Open,4,No,None,32,Yes,Week 4,Global Hypercare Hub,100,Medium,Low,72,66,33,16,60,82,70
+INC940084,2026-04-08 03:00:00,Peru,FI,Sev4,Low,Open,7,Yes,L2,34,No,Week 1,Global Hypercare Hub,25,Medium,Medium,63,71,56,16,67,87,62
+INC940085,2026-04-30 05:00:00,Argentina,SD,Sev4,Medium,In Progress,4,Yes,L3,36,No,Week 4,Global Hypercare Hub,116,Medium,Low,76,69,61,4,60,78,60
+INC940086,2026-04-13 09:00:00,Peru,FI,Sev4,Low,Open,3,Yes,L3,27,Yes,Week 1,Global Hypercare Hub,11,Medium,Medium,80,91,70,-9,49,78,80
+INC940087,2026-04-28 18:00:00,Colombia,MDG,Sev3,Medium,In Progress,14,No,None,4,No,Week 3,Global Hypercare Hub,52,High,Low,97,63,60,6,77,85,98
+INC940088,2026-04-16 08:00:00,Canada,SD,Sev3,Medium,In Progress,8,Yes,L3,21,No,Week 4,North America War Room,109,High,Low,98,89,64,-9,52,71,75
+INC940089,2026-04-21 21:00:00,Mexico,CO,Sev3,Medium,Monitoring,22,Yes,L3,3,Yes,Week 2,Global Hypercare Hub,14,High,High,74,81,61,-12,62,69,95
+INC940090,2026-04-18 21:00:00,Canada,CO,Sev4,Low,Resolved,11,Yes,L2,35,No,Week 3,Global Hypercare Hub,94,Low,Medium,99,72,51,13,94,61,65
+INC940091,2026-04-12 03:00:00,Colombia,CO,Sev2,High,In Progress,18,No,None,21,No,Week 4,LATAM Command Center,12,Medium,Low,86,85,47,15,90,95,95
+INC940092,2026-04-24 03:00:00,Chile,CO,Sev4,Medium,Monitoring,3,Yes,L1,12,No,Week 2,LATAM Command Center,14,High,High,84,75,44,-5,72,83,77
+INC940093,2026-04-27 11:00:00,Colombia,MM,Sev1,Critical,Open,21,Yes,L1,26,No,Week 2,Global Hypercare Hub,78,Low,Low,69,82,57,-8,54,60,66
+INC940094,2026-04-19 21:00:00,Canada,MDG,Sev2,High,Resolved,48,No,None,34,Yes,Week 1,Global Hypercare Hub,62,Low,High,84,78,66,-10,91,66,90
+INC940095,2026-04-03 19:00:00,Brazil,TM,Sev2,Critical,In Progress,47,No,None,36,Yes,Week 2,LATAM Command Center,38,High,Low,99,62,17,3,90,83,68
+INC940096,2026-04-30 19:00:00,Mexico,ABAP,Sev1,Critical,Open,58,Yes,L1,18,No,Week 1,Global Hypercare Hub,37,High,Low,81,85,22,-10,83,82,89
+INC940097,2026-04-11 06:00:00,Chile,CO,Sev3,High,In Progress,16,Yes,L2,1,Yes,Week 1,North America War Room,53,High,Low,79,64,45,-4,54,72,60
+INC940098,2026-04-14 00:00:00,USA,FI,Sev4,Low,Monitoring,5,Yes,L2,7,Yes,Week 4,LATAM Command Center,50,Low,Low,63,83,21,14,77,56,75
+INC940099,2026-04-28 15:00:00,Colombia,SD,Sev4,Low,Resolved,4,Yes,L2,7,No,Week 4,LATAM Command Center,106,Medium,Low,63,64,29,-3,61,77,65
+INC940100,2026-04-11 15:00:00,Chile,MM,Sev4,Medium,Monitoring,5,No,None,17,Yes,Week 3,North America War Room,70,Medium,High,80,85,57,17,56,96,94
+INC940101,2026-04-20 16:00:00,USA,MM,Sev2,Critical,Resolved,27,Yes,L3,16,No,Week 3,Global Hypercare Hub,42,Medium,High,94,94,69,16,89,90,78
+INC940102,2026-04-11 18:00:00,Mexico,Basis,Sev3,High,Monitoring,12,Yes,L2,10,No,Week 3,LATAM Command Center,103,Low,Medium,74,70,55,-8,67,83,60
+INC940103,2026-04-23 23:00:00,Brazil,SD,Sev4,Medium,Monitoring,3,Yes,L1,4,Yes,Week 3,Global Hypercare Hub,19,Medium,Low,94,73,35,10,93,98,70
+INC940104,2026-04-22 00:00:00,Canada,MDG,Sev3,Medium,Resolved,12,No,None,8,No,Week 4,Global Hypercare Hub,79,High,Low,93,61,36,13,69,71,81
+INC940105,2026-04-12 15:00:00,Brazil,ABAP,Sev4,Low,Monitoring,4,No,None,11,No,Week 3,LATAM Command Center,10,Low,Low,60,58,34,15,56,61,95
+INC940106,2026-04-20 13:00:00,Chile,FI,Sev3,Medium,Monitoring,9,Yes,L2,5,Yes,Week 3,Global Hypercare Hub,95,Medium,Low,78,76,66,17,48,84,94
+INC940107,2026-04-29 07:00:00,Peru,CO,Sev4,Medium,Open,4,No,None,13,No,Week 4,LATAM Command Center,55,Medium,High,63,96,56,-6,67,71,91
+INC940108,2026-04-13 02:00:00,Colombia,MDG,Sev2,High,Open,14,Yes,L2,6,No,Week 1,North America War Room,61,High,Medium,83,72,65,-11,62,91,61
+INC940109,2026-04-05 04:00:00,Argentina,MDG,Sev3,High,In Progress,22,Yes,L1,8,Yes,Week 3,LATAM Command Center,31,Low,Medium,78,96,56,-12,50,74,89
+INC940110,2026-04-02 08:00:00,Canada,MDG,Sev4,Low,Monitoring,8,Yes,L3,30,No,Week 2,LATAM Command Center,37,Medium,Medium,62,89,32,12,73,66,82
+INC940111,2026-04-04 06:00:00,Canada,MDG,Sev4,Medium,Resolved,3,Yes,L1,22,Yes,Week 3,LATAM Command Center,40,High,High,78,96,49,-10,49,87,73
+INC940112,2026-04-20 14:00:00,Colombia,MDG,Sev2,High,Resolved,48,Yes,L1,23,Yes,Week 2,Global Hypercare Hub,116,High,Medium,63,72,44,10,62,97,66
+INC940113,2026-04-25 22:00:00,USA,SD,Sev3,Medium,Monitoring,1,No,None,14,Yes,Week 2,North America War Room,63,Low,Medium,97,63,46,14,57,65,62
+INC940114,2026-04-05 08:00:00,Chile,MM,Sev4,Medium,Open,10,No,None,32,No,Week 1,Global Hypercare Hub,14,High,Medium,87,90,30,6,95,71,86
+INC940115,2026-04-18 23:00:00,Brazil,FI,Sev3,High,Monitoring,1,Yes,L2,2,No,Week 1,North America War Room,111,Low,High,72,71,46,-6,80,64,71
+INC940116,2026-04-10 11:00:00,Colombia,TM,Sev3,High,Open,13,Yes,L3,32,No,Week 4,LATAM Command Center,64,Medium,Medium,90,83,20,-10,86,71,65
+INC940117,2026-04-05 18:00:00,Canada,SD,Sev1,Critical,Monitoring,69,No,None,21,No,Week 4,North America War Room,89,Medium,Low,83,74,69,9,83,78,92
+INC940118,2026-04-25 19:00:00,Peru,Basis,Sev1,Critical,In Progress,14,No,None,24,No,Week 2,Global Hypercare Hub,27,Medium,Medium,77,95,60,0,71,80,85
+INC940119,2026-04-18 22:00:00,Canada,SD,Sev2,Critical,Open,41,Yes,L1,35,No,Week 3,North America War Room,36,Medium,High,72,73,28,-7,60,89,86
+INC940120,2026-04-06 12:00:00,Chile,SD,Sev2,Critical,In Progress,46,Yes,L1,30,Yes,Week 3,North America War Room,98,High,High,77,93,44,-7,72,96,95
+INC940121,2026-04-16 03:00:00,Mexico,ABAP,Sev4,Medium,Resolved,5,No,None,21,Yes,Week 4,North America War Room,91,Medium,Medium,75,93,66,15,77,81,75
+INC940122,2026-04-19 23:00:00,Colombia,Basis,Sev2,Critical,Open,41,Yes,L3,26,No,Week 1,Global Hypercare Hub,106,High,Medium,94,90,70,11,73,61,91
+INC940123,2026-04-16 10:00:00,Argentina,CO,Sev4,Low,Monitoring,9,No,None,35,No,Week 1,North America War Room,53,Low,High,65,75,47,13,60,94,89
+INC940124,2026-04-22 11:00:00,Argentina,FI,Sev4,Low,Resolved,8,No,None,17,No,Week 4,LATAM Command Center,83,Low,Medium,80,85,64,11,51,78,79
+INC940125,2026-04-27 14:00:00,Brazil,SD,Sev4,Medium,Monitoring,12,No,None,25,No,Week 1,LATAM Command Center,29,Medium,High,60,95,36,7,75,72,76
+INC940126,2026-04-22 09:00:00,Mexico,ABAP,Sev3,Medium,Open,11,Yes,L3,4,No,Week 1,North America War Room,48,High,Medium,72,85,37,11,69,77,96
+INC940127,2026-04-06 03:00:00,Brazil,TM,Sev3,High,In Progress,7,Yes,L2,22,No,Week 3,LATAM Command Center,38,Medium,High,60,75,52,8,61,81,74
+INC940128,2026-04-23 07:00:00,Peru,CO,Sev3,High,In Progress,11,No,None,35,Yes,Week 2,Global Hypercare Hub,110,High,Medium,83,91,29,18,76,55,92
+INC940129,2026-04-20 09:00:00,Canada,FI,Sev3,High,Open,1,Yes,L2,28,Yes,Week 3,Global Hypercare Hub,61,Medium,High,94,90,23,11,77,55,74
+INC940130,2026-04-27 17:00:00,Chile,MM,Sev3,High,Resolved,10,Yes,L2,13,Yes,Week 4,Global Hypercare Hub,59,Medium,Medium,91,76,70,12,52,65,78
+INC940131,2026-04-15 15:00:00,Canada,CO,Sev4,Medium,Open,1,No,None,16,No,Week 4,LATAM Command Center,76,Medium,Low,82,75,34,-7,92,58,64
+INC940132,2026-04-23 07:00:00,Mexico,Basis,Sev2,High,Resolved,32,Yes,L1,35,No,Week 4,Global Hypercare Hub,21,Low,Medium,73,89,18,17,61,77,92
+INC940133,2026-04-14 08:00:00,Brazil,SD,Sev3,High,Open,16,No,None,17,Yes,Week 4,LATAM Command Center,91,Low,Low,79,70,28,2,84,94,98
+INC940134,2026-04-30 21:00:00,Brazil,TM,Sev3,High,Open,21,No,None,20,No,Week 1,Global Hypercare Hub,31,Medium,Low,88,86,41,-9,78,85,82
+INC940135,2026-04-21 13:00:00,Canada,FI,Sev2,Critical,Resolved,11,No,None,7,No,Week 2,Global Hypercare Hub,31,Medium,Low,97,59,28,-7,67,70,81
+INC940136,2026-04-22 22:00:00,Brazil,MDG,Sev4,Medium,Open,11,No,None,14,Yes,Week 4,North America War Room,67,Medium,Low,68,82,60,-6,68,77,83
+INC940137,2026-04-30 19:00:00,USA,FI,Sev4,Medium,In Progress,12,No,None,31,Yes,Week 4,Global Hypercare Hub,40,Medium,Medium,72,59,60,18,48,69,87
+INC940138,2026-04-01 22:00:00,Brazil,FI,Sev1,Critical,Monitoring,32,No,None,17,Yes,Week 3,LATAM Command Center,115,Low,Medium,91,85,24,-4,56,77,74
+INC940139,2026-04-16 00:00:00,Chile,FI,Sev2,High,Monitoring,46,No,None,33,No,Week 4,Global Hypercare Hub,63,Medium,High,82,94,28,17,79,80,92
+INC940140,2026-04-24 19:00:00,USA,MM,Sev3,Medium,In Progress,21,No,None,14,No,Week 2,North America War Room,82,Low,Low,89,70,15,8,83,77,84
+INC940141,2026-04-18 23:00:00,Mexico,MDG,Sev3,High,Monitoring,3,Yes,L2,32,Yes,Week 1,Global Hypercare Hub,66,High,Low,65,65,23,8,95,76,76
+INC940142,2026-04-30 05:00:00,Peru,ABAP,Sev2,Critical,In Progress,17,Yes,L1,27,Yes,Week 3,LATAM Command Center,53,Medium,Medium,88,84,71,-3,74,81,97
+INC940143,2026-04-13 01:00:00,Mexico,TM,Sev4,Low,Open,2,Yes,L3,13,Yes,Week 2,North America War Room,57,Low,Low,77,74,69,5,69,78,64
+INC940144,2026-04-01 18:00:00,Canada,TM,Sev2,High,Open,21,No,None,16,Yes,Week 4,North America War Room,48,Medium,High,88,80,36,9,67,59,70
+INC940145,2026-04-25 01:00:00,Colombia,Basis,Sev3,Medium,Open,2,Yes,L2,21,No,Week 2,Global Hypercare Hub,96,High,Low,85,89,52,-10,90,84,94
+INC940146,2026-04-06 10:00:00,Canada,MDG,Sev3,Medium,Monitoring,7,Yes,L1,20,Yes,Week 1,North America War Room,73,High,High,92,85,56,-2,94,98,69
+INC940147,2026-04-13 12:00:00,Argentina,TM,Sev4,Low,Resolved,2,No,None,24,No,Week 4,Global Hypercare Hub,91,Medium,Low,75,68,20,9,82,71,76
+INC940148,2026-04-02 07:00:00,Brazil,SD,Sev1,Critical,In Progress,55,Yes,L1,28,No,Week 1,LATAM Command Center,110,High,Low,90,70,22,0,63,78,89
+INC940149,2026-04-16 09:00:00,Peru,CO,Sev3,Medium,In Progress,16,Yes,L3,15,No,Week 2,North America War Room,113,Low,High,72,91,56,3,72,90,85
+INC940150,2026-04-30 08:00:00,Peru,Basis,Sev3,High,Open,10,Yes,L3,21,Yes,Week 3,LATAM Command Center,83,High,Low,92,75,33,-5,73,65,83
+INC940151,2026-04-07 19:00:00,Canada,MDG,Sev1,Critical,Resolved,19,Yes,L3,8,Yes,Week 4,LATAM Command Center,95,Medium,Low,89,72,43,-4,66,68,79
+INC940152,2026-04-08 10:00:00,Mexico,TM,Sev2,Critical,Resolved,42,No,None,16,No,Week 2,LATAM Command Center,40,Low,Medium,73,66,30,14,56,77,99
+INC940153,2026-04-09 00:00:00,Argentina,CO,Sev3,Medium,Open,2,No,None,30,Yes,Week 3,North America War Room,110,High,Medium,90,80,65,18,69,92,89
+INC940154,2026-04-15 07:00:00,Argentina,Basis,Sev3,Medium,Open,15,No,None,36,Yes,Week 2,LATAM Command Center,48,Low,Low,86,77,63,-4,56,70,97
+INC940155,2026-04-03 16:00:00,Argentina,ABAP,Sev4,Low,Monitoring,11,Yes,L3,33,Yes,Week 3,North America War Room,48,High,Medium,66,84,62,11,72,78,84
+INC940156,2026-04-15 23:00:00,Canada,TM,Sev4,Medium,Monitoring,5,Yes,L3,34,No,Week 2,LATAM Command Center,70,High,Low,76,93,60,-6,73,85,61
+INC940157,2026-04-12 20:00:00,Canada,FI,Sev1,Critical,Open,20,Yes,L1,19,No,Week 1,LATAM Command Center,39,High,Low,71,74,66,5,53,89,75
+INC940158,2026-04-11 23:00:00,Chile,TM,Sev1,Critical,Open,70,No,None,15,Yes,Week 3,North America War Room,106,High,Low,94,77,61,16,84,58,69
+INC940159,2026-04-10 01:00:00,Argentina,ABAP,Sev3,High,Monitoring,21,No,None,33,No,Week 1,North America War Room,14,Low,Medium,90,78,72,-12,77,78,73
+INC940160,2026-04-07 06:00:00,Brazil,Basis,Sev3,High,Open,23,Yes,L1,36,No,Week 3,LATAM Command Center,16,Low,Medium,61,66,24,-9,94,72,78
+INC940161,2026-04-06 02:00:00,Chile,CO,Sev4,Low,Resolved,4,Yes,L1,22,No,Week 2,LATAM Command Center,100,High,Medium,70,95,54,11,87,70,92
+INC940162,2026-04-10 18:00:00,Canada,MDG,Sev3,High,Resolved,8,Yes,L3,26,Yes,Week 1,North America War Room,35,Low,Low,78,71,43,6,53,76,62
+INC940163,2026-04-23 18:00:00,Chile,FI,Sev3,High,Monitoring,4,Yes,L2,31,No,Week 2,North America War Room,22,High,Medium,72,63,37,14,82,85,75
+INC940164,2026-04-13 17:00:00,Canada,SD,Sev4,Low,Resolved,4,Yes,L1,21,No,Week 1,LATAM Command Center,47,High,Medium,80,63,15,-10,94,73,74
+INC940165,2026-04-05 16:00:00,Chile,SD,Sev3,High,Resolved,20,Yes,L2,10,No,Week 1,LATAM Command Center,21,Low,Low,88,88,64,4,62,59,68
+INC940166,2026-04-28 09:00:00,USA,FI,Sev2,Critical,In Progress,14,No,None,12,Yes,Week 2,Global Hypercare Hub,75,Medium,High,70,92,50,-5,70,70,68
+INC940167,2026-04-26 15:00:00,Peru,MDG,Sev3,Medium,Resolved,14,Yes,L3,6,No,Week 2,LATAM Command Center,77,High,Low,80,69,33,16,64,83,99
+INC940168,2026-04-19 11:00:00,Canada,TM,Sev3,Medium,In Progress,15,No,None,24,No,Week 3,North America War Room,38,Low,Low,62,91,27,-11,80,67,93
+INC940169,2026-04-22 11:00:00,USA,Basis,Sev4,Medium,Resolved,6,No,None,29,No,Week 3,North America War Room,12,High,High,61,82,67,8,95,56,80
+INC940170,2026-04-18 22:00:00,Colombia,CO,Sev2,Critical,Open,17,No,None,12,Yes,Week 3,Global Hypercare Hub,49,High,High,86,91,71,18,67,81,66
+INC940171,2026-04-24 10:00:00,Canada,MM,Sev4,Low,Resolved,10,No,None,18,No,Week 2,Global Hypercare Hub,76,Medium,Medium,97,66,59,2,87,78,90
+INC940172,2026-04-27 09:00:00,Canada,MM,Sev4,Medium,Monitoring,6,No,None,31,Yes,Week 2,LATAM Command Center,34,High,Low,70,67,34,15,77,70,78
+INC940173,2026-04-20 18:00:00,Chile,CO,Sev3,High,Monitoring,10,Yes,L3,30,No,Week 2,Global Hypercare Hub,62,Low,Medium,85,76,52,3,66,67,82
+INC940174,2026-04-09 18:00:00,Argentina,FI,Sev2,Critical,In Progress,27,Yes,L1,29,No,Week 4,North America War Room,95,Medium,High,99,80,51,-1,88,68,87
+INC940175,2026-04-16 21:00:00,Mexico,SD,Sev4,Low,Open,2,No,None,32,No,Week 3,North America War Room,31,High,Low,82,73,35,3,83,94,76
+INC940176,2026-04-03 03:00:00,Peru,FI,Sev4,Medium,Resolved,11,Yes,L1,23,Yes,Week 1,North America War Room,43,High,Low,74,66,30,-5,91,67,85
+INC940177,2026-04-29 08:00:00,Canada,MDG,Sev3,High,Monitoring,4,Yes,L1,14,No,Week 1,Global Hypercare Hub,40,Low,Low,65,81,64,-3,89,86,92
+INC940178,2026-04-02 18:00:00,Chile,TM,Sev4,Medium,Monitoring,12,No,None,32,No,Week 4,LATAM Command Center,12,Medium,High,65,70,71,-6,91,62,85
+INC940179,2026-04-20 19:00:00,Canada,CO,Sev3,High,Resolved,18,Yes,L3,27,Yes,Week 3,Global Hypercare Hub,16,Medium,Low,97,61,30,1,51,98,64
+INC940180,2026-04-13 21:00:00,Colombia,ABAP,Sev4,Medium,Monitoring,10,Yes,L1,10,Yes,Week 1,Global Hypercare Hub,75,Low,Medium,94,92,65,-8,71,93,85
+INC940181,2026-04-25 11:00:00,USA,SD,Sev4,Medium,Monitoring,5,No,None,20,Yes,Week 2,LATAM Command Center,120,Low,Medium,90,60,61,14,76,58,70
+INC940182,2026-04-10 03:00:00,Brazil,MM,Sev4,Low,Resolved,11,Yes,L3,33,Yes,Week 1,LATAM Command Center,71,Medium,Low,65,66,21,0,93,84,80
+INC940183,2026-04-24 13:00:00,Peru,FI,Sev2,Critical,In Progress,25,Yes,L3,32,No,Week 3,LATAM Command Center,29,High,Low,73,96,36,3,94,88,79
+INC940184,2026-04-21 01:00:00,Chile,Basis,Sev3,Medium,Resolved,17,No,None,35,No,Week 4,LATAM Command Center,12,Low,High,77,58,42,-5,51,92,69
+INC940185,2026-04-28 19:00:00,USA,CO,Sev3,Medium,In Progress,16,No,None,1,Yes,Week 4,Global Hypercare Hub,94,High,Medium,98,68,60,4,81,92,72
+INC940186,2026-04-09 23:00:00,Mexico,CO,Sev3,Medium,Resolved,11,Yes,L3,31,No,Week 2,North America War Room,67,Medium,Medium,80,68,65,0,80,95,83
+INC940187,2026-04-26 22:00:00,Brazil,TM,Sev3,High,Resolved,12,Yes,L3,25,No,Week 2,North America War Room,87,Low,High,88,85,55,14,85,64,62
+INC940188,2026-04-18 20:00:00,Chile,FI,Sev4,Low,Open,6,Yes,L2,23,No,Week 1,North America War Room,50,Medium,Medium,75,64,21,11,62,75,75
+INC940189,2026-04-05 15:00:00,Peru,MDG,Sev3,High,In Progress,17,Yes,L1,25,No,Week 4,North America War Room,90,Low,Medium,72,69,63,18,95,74,62
+INC940190,2026-04-20 11:00:00,Brazil,MDG,Sev2,High,Resolved,11,Yes,L2,32,No,Week 2,North America War Room,15,High,High,98,75,50,7,91,65,77
+INC940191,2026-04-07 15:00:00,Colombia,ABAP,Sev2,High,Open,41,No,None,15,Yes,Week 3,North America War Room,33,High,Medium,75,85,44,-2,69,59,62
+INC940192,2026-04-17 23:00:00,USA,Basis,Sev2,Critical,Resolved,41,No,None,25,No,Week 4,Global Hypercare Hub,33,High,Medium,77,96,44,-10,78,65,71
+INC940193,2026-04-18 15:00:00,Mexico,CO,Sev4,Low,Open,9,No,None,14,Yes,Week 3,Global Hypercare Hub,15,Medium,Low,77,71,29,-4,78,66,72
+INC940194,2026-04-09 17:00:00,Brazil,SD,Sev2,High,Resolved,20,Yes,L3,34,Yes,Week 1,Global Hypercare Hub,117,Low,Low,93,70,57,-10,90,73,71
+INC940195,2026-04-16 16:00:00,Colombia,TM,Sev3,Medium,Monitoring,16,Yes,L2,29,Yes,Week 4,North America War Room,24,Low,High,76,84,69,-11,80,83,93
+INC940196,2026-04-09 11:00:00,USA,ABAP,Sev2,High,Resolved,8,Yes,L1,12,No,Week 1,LATAM Command Center,56,High,High,96,81,63,-5,78,56,88
+INC940197,2026-04-23 16:00:00,Colombia,MM,Sev2,High,In Progress,34,No,None,2,Yes,Week 1,North America War Room,101,Low,High,73,86,42,12,90,79,95
+INC940198,2026-04-30 11:00:00,USA,TM,Sev3,High,Monitoring,16,No,None,5,No,Week 4,Global Hypercare Hub,111,Low,Low,80,78,48,17,55,55,83
+INC940199,2026-04-08 12:00:00,Argentina,CO,Sev3,High,Open,1,Yes,L1,18,No,Week 2,North America War Room,89,Low,Low,93,74,70,12,54,75,62
+INC940200,2026-04-19 06:00:00,Mexico,MDG,Sev4,Medium,Resolved,6,Yes,L2,4,Yes,Week 3,North America War Room,40,High,High,69,67,53,-10,78,76,90
+INC940201,2026-04-18 09:00:00,Chile,MDG,Sev4,Low,Resolved,11,Yes,L2,8,No,Week 1,North America War Room,50,Low,Medium,75,80,68,13,48,70,98
+INC940202,2026-04-17 13:00:00,Chile,FI,Sev1,Critical,Resolved,14,Yes,L3,8,No,Week 3,Global Hypercare Hub,55,Medium,Medium,89,75,28,-6,77,59,69
+INC940203,2026-04-30 05:00:00,Mexico,Basis,Sev1,Critical,Monitoring,33,Yes,L3,30,Yes,Week 4,North America War Room,60,Low,High,67,72,71,-6,95,97,80
+INC940204,2026-04-30 03:00:00,Peru,Basis,Sev3,High,Open,22,Yes,L2,2,Yes,Week 1,North America War Room,36,High,High,62,64,24,9,90,71,69
+INC940205,2026-04-24 22:00:00,Peru,MDG,Sev3,High,Resolved,17,No,None,33,No,Week 4,Global Hypercare Hub,60,High,High,94,85,43,16,68,74,65
+INC940206,2026-04-08 18:00:00,Argentina,MDG,Sev2,High,In Progress,30,Yes,L3,24,No,Week 4,Global Hypercare Hub,40,High,High,83,78,49,17,67,96,61
+INC940207,2026-04-25 07:00:00,Peru,MDG,Sev1,Critical,In Progress,22,Yes,L1,29,Yes,Week 1,Global Hypercare Hub,93,Medium,Medium,88,73,33,-9,72,80,86
+INC940208,2026-04-20 21:00:00,Peru,FI,Sev2,High,Monitoring,47,Yes,L1,17,Yes,Week 4,Global Hypercare Hub,33,High,Medium,60,68,64,3,57,87,98
+INC940209,2026-04-24 14:00:00,Canada,Basis,Sev4,Low,Monitoring,3,Yes,L3,9,No,Week 2,LATAM Command Center,90,High,Low,98,93,35,17,94,81,98
+INC940210,2026-04-26 05:00:00,Peru,CO,Sev3,High,Open,23,Yes,L2,16,No,Week 3,LATAM Command Center,96,Medium,Low,78,77,48,4,61,71,69
+INC940211,2026-04-30 16:00:00,USA,Basis,Sev4,Medium,Monitoring,4,No,None,19,Yes,Week 4,Global Hypercare Hub,113,Medium,Low,79,69,40,6,83,65,70
+INC940212,2026-04-26 11:00:00,Chile,CO,Sev4,Low,Open,9,No,None,18,Yes,Week 3,LATAM Command Center,27,Medium,Low,81,80,42,7,58,62,73
+INC940213,2026-04-03 13:00:00,Argentina,FI,Sev2,High,Monitoring,19,No,None,21,No,Week 1,Global Hypercare Hub,78,High,Low,95,85,67,13,66,79,82
+INC940214,2026-04-20 14:00:00,Mexico,CO,Sev4,Low,In Progress,8,Yes,L3,34,No,Week 3,Global Hypercare Hub,91,High,Medium,85,93,54,10,62,68,74
+INC940215,2026-04-29 05:00:00,Argentina,ABAP,Sev2,High,Monitoring,42,No,None,13,No,Week 2,North America War Room,35,Medium,Low,66,82,42,16,60,62,73
+INC940216,2026-04-11 09:00:00,Canada,CO,Sev4,Medium,In Progress,4,Yes,L2,4,Yes,Week 2,Global Hypercare Hub,65,Medium,Low,91,91,18,12,57,94,72
+INC940217,2026-04-26 15:00:00,Peru,TM,Sev3,High,Monitoring,2,No,None,3,No,Week 4,LATAM Command Center,107,Medium,High,93,65,25,-11,80,56,61
+INC940218,2026-04-20 23:00:00,Brazil,FI,Sev3,Medium,In Progress,11,No,None,33,Yes,Week 4,North America War Room,54,High,Medium,65,90,40,-4,73,55,75
+INC940219,2026-04-15 13:00:00,Canada,Basis,Sev3,Medium,Open,17,No,None,30,Yes,Week 2,Global Hypercare Hub,69,Medium,High,66,90,64,12,88,95,61
+INC940220,2026-04-12 14:00:00,Peru,MM,Sev3,High,Monitoring,9,No,None,2,No,Week 2,Global Hypercare Hub,35,Medium,Low,61,71,38,18,87,57,69
+INC940221,2026-04-16 04:00:00,Mexico,TM,Sev2,High,Monitoring,10,No,None,6,No,Week 4,Global Hypercare Hub,88,High,High,85,58,26,0,69,62,61
+INC940222,2026-04-23 09:00:00,Argentina,MM,Sev3,High,In Progress,17,Yes,L2,35,Yes,Week 1,LATAM Command Center,39,High,High,83,78,19,-10,87,93,99
+INC940223,2026-04-08 07:00:00,Peru,FI,Sev3,High,Resolved,7,No,None,9,No,Week 1,LATAM Command Center,16,High,Medium,80,91,54,14,50,60,90
+INC940224,2026-04-11 08:00:00,Mexico,ABAP,Sev1,Critical,Open,12,Yes,L3,15,No,Week 2,North America War Room,38,High,High,61,93,49,-6,53,87,91
+INC940225,2026-04-28 02:00:00,Brazil,FI,Sev1,Critical,In Progress,60,Yes,L1,9,Yes,Week 1,North America War Room,11,Medium,High,76,65,53,-7,66,68,91
+INC940226,2026-04-25 16:00:00,USA,TM,Sev4,Medium,Monitoring,12,Yes,L2,4,No,Week 1,Global Hypercare Hub,76,High,Low,81,66,52,3,70,97,85
+INC940227,2026-04-25 16:00:00,Colombia,CO,Sev3,High,Resolved,14,No,None,26,No,Week 3,North America War Room,62,Low,High,87,59,21,-8,67,80,75
+INC940228,2026-04-20 08:00:00,Chile,TM,Sev4,Medium,In Progress,8,Yes,L2,2,No,Week 1,LATAM Command Center,97,Low,Medium,86,81,58,-9,58,60,88
+INC940229,2026-04-16 19:00:00,Brazil,ABAP,Sev3,Medium,Monitoring,11,Yes,L3,3,Yes,Week 2,Global Hypercare Hub,50,Medium,Medium,86,90,63,16,60,90,64
+INC940230,2026-04-02 14:00:00,Mexico,ABAP,Sev3,High,Open,12,No,None,8,No,Week 2,Global Hypercare Hub,47,High,Medium,65,76,46,6,48,58,60
+INC940231,2026-04-27 23:00:00,USA,Basis,Sev4,Low,Monitoring,7,Yes,L1,30,No,Week 4,North America War Room,23,Low,Low,69,69,26,-3,91,92,82
+INC940232,2026-04-21 00:00:00,Brazil,TM,Sev3,Medium,Resolved,13,No,None,33,No,Week 2,Global Hypercare Hub,48,High,Medium,71,61,49,6,48,62,98
+INC940233,2026-04-14 00:00:00,Colombia,CO,Sev4,Medium,Open,5,No,None,21,Yes,Week 3,LATAM Command Center,102,Low,Low,97,63,60,5,67,92,77
+INC940234,2026-04-12 07:00:00,Brazil,CO,Sev4,Low,Monitoring,10,Yes,L2,36,No,Week 2,LATAM Command Center,81,Medium,Medium,99,60,59,9,61,87,62
+INC940235,2026-04-22 14:00:00,Colombia,SD,Sev3,High,In Progress,16,No,None,36,No,Week 4,Global Hypercare Hub,75,High,Medium,94,79,22,13,84,92,79
+INC940236,2026-04-21 14:00:00,Chile,MM,Sev3,High,Resolved,20,Yes,L3,26,Yes,Week 2,Global Hypercare Hub,35,Low,High,97,81,27,18,93,58,90
+INC940237,2026-04-20 07:00:00,USA,FI,Sev3,High,Open,15,No,None,18,Yes,Week 4,Global Hypercare Hub,12,Medium,Medium,90,63,51,4,93,82,75
+INC940238,2026-04-12 21:00:00,Mexico,FI,Sev3,High,Resolved,10,No,None,34,No,Week 3,Global Hypercare Hub,38,High,Medium,67,59,64,15,74,94,87
+INC940239,2026-04-06 08:00:00,Peru,CO,Sev4,Low,In Progress,2,No,None,18,No,Week 3,North America War Room,33,Medium,Medium,67,75,33,18,56,82,84
+INC940240,2026-04-02 14:00:00,Argentina,CO,Sev3,Medium,In Progress,7,No,None,32,Yes,Week 3,Global Hypercare Hub,46,Low,High,95,67,68,15,64,81,99
+INC940241,2026-04-30 20:00:00,Peru,SD,Sev3,High,Open,5,Yes,L2,13,Yes,Week 4,North America War Room,36,Medium,Low,82,69,28,6,53,84,92
+INC940242,2026-04-09 17:00:00,Mexico,MM,Sev1,Critical,Resolved,64,Yes,L3,7,Yes,Week 2,Global Hypercare Hub,47,High,Low,97,71,39,-4,50,73,62
+INC940243,2026-04-17 12:00:00,Canada,Basis,Sev1,Critical,In Progress,49,No,None,31,No,Week 2,Global Hypercare Hub,111,High,High,95,80,53,4,56,97,82
+INC940244,2026-04-04 22:00:00,Brazil,TM,Sev3,High,Resolved,8,No,None,2,Yes,Week 2,North America War Room,12,Low,Low,78,71,72,-7,89,79,93
+INC940245,2026-04-22 11:00:00,Peru,MDG,Sev4,Low,In Progress,6,Yes,L1,12,Yes,Week 4,LATAM Command Center,19,High,High,95,76,61,-1,65,75,60
+INC940246,2026-04-07 11:00:00,Argentina,FI,Sev3,Medium,In Progress,22,Yes,L2,35,No,Week 1,LATAM Command Center,94,Low,High,62,59,63,1,72,85,66
+INC940247,2026-04-20 02:00:00,USA,TM,Sev2,High,Monitoring,9,Yes,L2,29,Yes,Week 3,LATAM Command Center,100,High,High,60,84,49,-11,50,74,98
+INC940248,2026-04-20 23:00:00,Peru,ABAP,Sev2,High,Open,47,No,None,23,No,Week 1,North America War Room,73,Low,High,77,86,26,-1,60,74,92
+INC940249,2026-04-28 15:00:00,Peru,SD,Sev3,Medium,In Progress,10,Yes,L1,16,No,Week 3,Global Hypercare Hub,97,High,Medium,69,72,66,-9,87,75,99
+INC940250,2026-04-02 18:00:00,Argentina,ABAP,Sev3,High,In Progress,3,No,None,2,Yes,Week 3,North America War Room,47,Low,High,93,74,67,6,95,88,90
+INC940251,2026-04-26 19:00:00,Canada,TM,Sev4,Medium,Resolved,5,No,None,36,Yes,Week 4,North America War Room,90,High,Medium,89,69,67,3,84,63,68
+INC940252,2026-04-09 00:00:00,Chile,SD,Sev3,High,Resolved,17,No,None,24,No,Week 1,North America War Room,95,Medium,Medium,92,93,26,5,84,87,78
+INC940253,2026-04-02 04:00:00,USA,Basis,Sev4,Medium,Monitoring,5,Yes,L2,5,Yes,Week 2,Global Hypercare Hub,119,Medium,Medium,89,84,41,-6,85,56,71
+INC940254,2026-04-22 22:00:00,Brazil,SD,Sev4,Low,Resolved,4,No,None,22,Yes,Week 1,LATAM Command Center,50,Medium,Low,90,78,27,-10,59,90,85
+INC940255,2026-04-16 21:00:00,Peru,TM,Sev3,Medium,Monitoring,16,Yes,L2,27,No,Week 1,Global Hypercare Hub,17,Low,Low,81,72,62,-2,78,98,90
+INC940256,2026-04-11 07:00:00,Colombia,ABAP,Sev3,High,Monitoring,18,No,None,1,No,Week 4,LATAM Command Center,83,Low,High,64,80,42,12,91,86,72
+INC940257,2026-04-27 16:00:00,Mexico,Basis,Sev2,Critical,Resolved,13,No,None,33,No,Week 2,North America War Room,18,Low,Low,72,88,42,-11,93,84,85
+INC940258,2026-04-28 09:00:00,Argentina,FI,Sev2,Critical,Open,10,Yes,L2,36,Yes,Week 1,Global Hypercare Hub,51,High,Low,70,73,52,1,84,60,72
+INC940259,2026-04-20 14:00:00,Brazil,MDG,Sev2,High,Monitoring,24,Yes,L3,10,No,Week 1,Global Hypercare Hub,65,Medium,High,70,94,53,-4,64,93,93
+INC940260,2026-04-14 10:00:00,Chile,MDG,Sev4,Low,Open,3,No,None,32,No,Week 1,LATAM Command Center,90,Low,Medium,79,95,38,-11,52,90,74
+INC940261,2026-04-27 08:00:00,Brazil,MM,Sev2,High,In Progress,32,Yes,L3,19,Yes,Week 3,North America War Room,51,Medium,High,86,76,42,3,50,92,80
+INC940262,2026-04-02 22:00:00,Mexico,CO,Sev4,Medium,Open,10,Yes,L3,36,Yes,Week 3,LATAM Command Center,106,Low,High,66,92,24,2,80,76,66
+INC940263,2026-04-06 03:00:00,Brazil,TM,Sev4,Low,Monitoring,1,Yes,L1,12,Yes,Week 3,LATAM Command Center,80,Medium,Low,95,59,59,18,63,73,62
+INC940264,2026-04-01 17:00:00,Colombia,Basis,Sev3,High,In Progress,23,No,None,33,No,Week 3,North America War Room,105,High,Medium,97,76,46,-5,91,71,79
+INC940265,2026-04-17 15:00:00,Argentina,FI,Sev1,Critical,Open,63,Yes,L3,9,Yes,Week 3,North America War Room,39,High,Medium,87,74,17,1,82,58,65
+INC940266,2026-04-25 20:00:00,Mexico,FI,Sev4,Low,Open,12,Yes,L2,30,Yes,Week 4,Global Hypercare Hub,108,Medium,Low,75,91,65,-3,92,79,61
+INC940267,2026-04-01 20:00:00,Canada,CO,Sev4,Low,Resolved,6,Yes,L1,7,Yes,Week 3,LATAM Command Center,84,High,High,74,71,49,-8,70,62,75
+INC940268,2026-04-01 00:00:00,Brazil,ABAP,Sev3,Medium,Open,4,No,None,23,Yes,Week 2,North America War Room,31,High,Medium,77,94,42,-7,79,58,77
+INC940269,2026-04-06 08:00:00,Peru,TM,Sev3,Medium,In Progress,16,Yes,L2,9,No,Week 1,LATAM Command Center,119,High,Low,78,71,28,1,80,67,76
+INC940270,2026-04-15 11:00:00,Canada,TM,Sev4,Medium,Monitoring,1,No,None,7,No,Week 4,Global Hypercare Hub,15,Medium,Low,97,79,31,13,48,84,88
+INC940271,2026-04-19 00:00:00,USA,FI,Sev2,Critical,Open,22,Yes,L1,10,Yes,Week 3,LATAM Command Center,30,High,Low,91,75,61,15,75,60,87
+INC940272,2026-04-15 07:00:00,Colombia,Basis,Sev3,High,Monitoring,23,Yes,L3,31,No,Week 1,Global Hypercare Hub,19,Medium,High,64,81,44,0,70,93,63
+INC940273,2026-04-14 10:00:00,Mexico,Basis,Sev2,High,Monitoring,4,Yes,L2,20,No,Week 1,LATAM Command Center,92,Medium,High,68,95,15,11,95,81,93
+INC940274,2026-04-21 15:00:00,USA,TM,Sev4,Low,In Progress,9,Yes,L2,32,Yes,Week 2,North America War Room,39,High,Medium,94,59,66,9,67,81,80
+INC940275,2026-04-14 05:00:00,USA,CO,Sev3,High,Resolved,18,No,None,22,No,Week 3,LATAM Command Center,34,High,Medium,69,70,52,17,58,92,68
+INC940276,2026-04-11 16:00:00,Argentina,Basis,Sev4,Low,Open,11,No,None,24,No,Week 3,Global Hypercare Hub,13,Medium,Low,80,87,69,-7,65,70,73
+INC940277,2026-04-17 18:00:00,USA,SD,Sev3,High,Open,6,Yes,L2,27,Yes,Week 2,Global Hypercare Hub,23,High,Medium,73,79,68,14,88,83,65
+INC940278,2026-04-13 16:00:00,Mexico,CO,Sev3,Medium,Resolved,1,Yes,L3,30,No,Week 4,Global Hypercare Hub,87,Medium,Low,70,80,23,-12,91,63,92
+INC940279,2026-04-12 22:00:00,Mexico,Basis,Sev3,High,Resolved,13,No,None,6,Yes,Week 1,LATAM Command Center,24,Low,Medium,63,63,69,11,57,72,66
+INC940280,2026-04-20 09:00:00,Brazil,ABAP,Sev4,Low,Monitoring,9,Yes,L2,28,No,Week 3,LATAM Command Center,19,High,Low,75,84,17,11,55,55,66
+INC940281,2026-04-23 15:00:00,USA,CO,Sev4,Medium,Resolved,10,No,None,9,No,Week 3,North America War Room,106,Low,High,87,61,20,-11,68,61,89
+INC940282,2026-04-15 09:00:00,USA,CO,Sev4,Low,Open,3,Yes,L3,23,No,Week 4,North America War Room,114,Medium,Medium,83,80,53,11,89,64,63
+INC940283,2026-04-11 23:00:00,Chile,MDG,Sev3,Medium,Monitoring,22,No,None,15,No,Week 3,Global Hypercare Hub,28,Low,Medium,75,69,40,-10,62,57,92
+INC940284,2026-04-13 07:00:00,Mexico,Basis,Sev1,Critical,Resolved,25,No,None,28,No,Week 4,Global Hypercare Hub,74,Low,Low,73,93,31,-4,83,83,80
+INC940285,2026-04-14 16:00:00,Brazil,CO,Sev4,Low,In Progress,5,Yes,L2,22,No,Week 2,Global Hypercare Hub,94,High,Medium,84,78,15,-9,92,55,92
+INC940286,2026-04-02 21:00:00,Canada,MDG,Sev4,Medium,In Progress,3,Yes,L2,29,Yes,Week 3,LATAM Command Center,28,Low,Low,93,88,53,9,68,93,73
+INC940287,2026-04-03 05:00:00,Argentina,Basis,Sev4,Low,Resolved,8,No,None,22,No,Week 4,North America War Room,71,Medium,Medium,98,93,22,11,62,62,67
+INC940288,2026-04-11 07:00:00,Brazil,TM,Sev3,Medium,Resolved,17,Yes,L2,20,No,Week 1,Global Hypercare Hub,85,Low,High,80,79,17,-5,91,60,75
+INC940289,2026-04-14 21:00:00,Colombia,Basis,Sev4,Low,Open,2,Yes,L3,27,No,Week 2,North America War Room,70,Medium,High,72,96,26,-11,81,73,62
+INC940290,2026-04-02 03:00:00,Canada,FI,Sev3,High,Monitoring,24,Yes,L1,7,Yes,Week 1,LATAM Command Center,100,Medium,Low,60,81,21,-10,80,69,65
+INC940291,2026-04-09 01:00:00,Brazil,SD,Sev3,Medium,Resolved,14,Yes,L1,28,Yes,Week 4,LATAM Command Center,30,High,Medium,93,96,16,-5,93,64,62
+INC940292,2026-04-29 17:00:00,Argentina,MDG,Sev3,Medium,Open,17,Yes,L3,22,Yes,Week 2,LATAM Command Center,108,High,Low,76,85,24,-3,91,71,84
+INC940293,2026-04-15 11:00:00,Argentina,MM,Sev3,High,Monitoring,4,No,None,32,Yes,Week 3,LATAM Command Center,61,High,High,77,63,21,9,67,78,73
+INC940294,2026-04-01 23:00:00,USA,MDG,Sev4,Low,Resolved,5,No,None,17,Yes,Week 3,LATAM Command Center,74,Medium,Low,89,88,67,2,50,80,95
+INC940295,2026-04-04 02:00:00,Mexico,TM,Sev4,Medium,Open,7,No,None,13,Yes,Week 3,North America War Room,97,Low,High,76,83,35,-9,90,82,82
+INC940296,2026-04-30 10:00:00,Chile,Basis,Sev1,Critical,Resolved,69,No,None,29,Yes,Week 4,Global Hypercare Hub,93,Medium,Low,92,59,68,-7,65,89,96
+INC940297,2026-04-29 18:00:00,Colombia,SD,Sev3,High,Monitoring,5,No,None,1,Yes,Week 4,LATAM Command Center,42,High,High,100,89,63,-8,80,72,62
+INC940298,2026-04-15 10:00:00,Peru,SD,Sev4,Medium,In Progress,5,No,None,26,Yes,Week 4,LATAM Command Center,120,Low,Medium,66,85,25,15,66,74,63
+INC940299,2026-04-29 12:00:00,Mexico,FI,Sev4,Low,In Progress,6,No,None,33,No,Week 3,North America War Room,120,Medium,Medium,89,95,33,9,52,69,66
+INC940300,2026-04-11 02:00:00,Colombia,SD,Sev2,High,In Progress,32,Yes,L1,27,No,Week 1,Global Hypercare Hub,35,Low,High,68,86,42,6,95,89,67
+INC940301,2026-04-20 12:00:00,Brazil,MM,Sev1,Critical,Monitoring,10,No,None,32,No,Week 3,LATAM Command Center,18,High,High,64,68,36,8,58,72,99
+INC940302,2026-04-24 08:00:00,Mexico,ABAP,Sev2,High,Monitoring,4,Yes,L2,31,Yes,Week 4,Global Hypercare Hub,33,Medium,Low,95,67,37,-5,83,80,89
+INC940303,2026-04-12 02:00:00,Chile,SD,Sev3,High,Monitoring,16,Yes,L3,22,No,Week 4,North America War Room,53,High,Medium,62,89,49,14,90,70,96
+INC940304,2026-04-15 11:00:00,Colombia,MDG,Sev3,High,Monitoring,8,No,None,9,No,Week 2,North America War Room,98,Low,Low,62,77,31,6,87,59,61
+INC940305,2026-04-24 11:00:00,Colombia,ABAP,Sev4,Low,In Progress,3,Yes,L2,30,Yes,Week 1,LATAM Command Center,89,Medium,Medium,83,58,62,-1,88,93,98
+INC940306,2026-04-28 05:00:00,USA,MDG,Sev3,Medium,Resolved,2,No,None,33,No,Week 3,Global Hypercare Hub,117,Low,Medium,67,58,56,9,53,55,85
+INC940307,2026-04-27 05:00:00,Canada,FI,Sev3,High,Monitoring,18,Yes,L1,6,Yes,Week 1,LATAM Command Center,96,High,Low,88,62,17,16,76,62,87
+INC940308,2026-04-12 12:00:00,Canada,Basis,Sev2,High,Resolved,7,No,None,29,Yes,Week 1,LATAM Command Center,40,Medium,Medium,80,69,45,0,95,85,80
+INC940309,2026-04-20 01:00:00,USA,TM,Sev4,Medium,In Progress,2,No,None,15,No,Week 1,LATAM Command Center,83,High,Medium,61,76,34,-1,62,74,82
+INC940310,2026-04-07 01:00:00,Brazil,FI,Sev4,Medium,Resolved,3,Yes,L2,26,Yes,Week 4,LATAM Command Center,34,Low,High,71,61,66,-4,85,59,81
+INC940311,2026-04-03 10:00:00,Peru,SD,Sev4,Low,Monitoring,10,No,None,26,No,Week 4,LATAM Command Center,35,High,Medium,70,61,70,18,56,56,92
+INC940312,2026-04-27 18:00:00,Brazil,MDG,Sev4,Low,Open,6,Yes,L3,21,No,Week 2,LATAM Command Center,41,Low,High,93,88,30,17,95,66,69
+INC940313,2026-04-15 05:00:00,Canada,Basis,Sev2,High,Resolved,18,No,None,8,Yes,Week 1,LATAM Command Center,109,High,Medium,98,87,28,15,92,88,60
+INC940314,2026-04-18 10:00:00,Canada,ABAP,Sev3,High,In Progress,24,No,None,31,Yes,Week 4,LATAM Command Center,53,Medium,Low,94,87,31,17,77,71,64
+INC940315,2026-04-04 02:00:00,Mexico,ABAP,Sev4,Low,Open,12,No,None,29,Yes,Week 1,LATAM Command Center,34,Low,High,87,78,70,11,64,63,82
+INC940316,2026-04-30 22:00:00,Argentina,TM,Sev3,Medium,In Progress,19,No,None,1,Yes,Week 2,LATAM Command Center,88,High,High,77,92,29,14,51,63,85
+INC940317,2026-04-07 19:00:00,Brazil,CO,Sev4,Medium,In Progress,4,No,None,21,No,Week 4,Global Hypercare Hub,13,Low,Medium,96,85,37,-9,77,68,81
+INC940318,2026-04-13 19:00:00,Mexico,TM,Sev2,High,Monitoring,20,Yes,L2,23,Yes,Week 4,Global Hypercare Hub,48,Medium,Medium,87,87,20,3,86,89,73
+INC940319,2026-04-02 13:00:00,Brazil,ABAP,Sev3,High,In Progress,10,Yes,L3,29,No,Week 3,Global Hypercare Hub,118,Low,Medium,86,60,29,-8,92,79,75
+INC940320,2026-04-30 12:00:00,Mexico,SD,Sev4,Medium,In Progress,9,No,None,11,No,Week 4,LATAM Command Center,53,Low,Medium,66,69,50,0,76,84,70
+INC940321,2026-04-17 01:00:00,Mexico,MDG,Sev1,Critical,In Progress,11,No,None,3,Yes,Week 4,North America War Room,34,Low,Low,97,68,63,-11,50,63,90
+INC940322,2026-04-12 14:00:00,Chile,ABAP,Sev2,High,Resolved,31,Yes,L2,9,Yes,Week 3,North America War Room,79,Medium,High,75,88,38,-10,82,85,68
+INC940323,2026-04-07 10:00:00,Colombia,SD,Sev3,High,Monitoring,6,Yes,L3,26,Yes,Week 4,North America War Room,61,Medium,High,64,85,48,8,49,94,94
+INC940324,2026-04-28 11:00:00,Mexico,FI,Sev1,Critical,Open,14,No,None,9,Yes,Week 2,North America War Room,56,Low,Medium,99,61,24,0,63,95,88
+INC940325,2026-04-07 12:00:00,Argentina,MDG,Sev3,High,Open,15,Yes,L2,3,Yes,Week 3,LATAM Command Center,95,Medium,Low,85,81,35,13,52,67,87
+INC940326,2026-04-27 18:00:00,USA,TM,Sev3,High,Monitoring,1,No,None,8,No,Week 1,North America War Room,105,High,High,72,83,56,1,61,91,66
+INC940327,2026-04-01 23:00:00,Argentina,MM,Sev1,Critical,In Progress,71,No,None,15,No,Week 3,Global Hypercare Hub,95,Medium,Low,82,79,72,-5,60,79,79
+INC940328,2026-04-15 01:00:00,Mexico,MM,Sev2,High,Resolved,6,No,None,5,Yes,Week 4,North America War Room,96,Medium,Medium,93,90,39,-10,52,79,81
+INC940329,2026-04-24 05:00:00,Argentina,MDG,Sev2,Critical,In Progress,45,Yes,L2,23,No,Week 2,LATAM Command Center,18,Medium,Low,87,74,37,-11,72,73,83
+INC940330,2026-04-20 08:00:00,Brazil,SD,Sev4,Low,Resolved,5,Yes,L1,1,Yes,Week 3,North America War Room,81,High,High,61,59,50,-9,57,90,81
+INC940331,2026-04-19 16:00:00,Canada,FI,Sev1,Critical,Monitoring,24,Yes,L1,13,No,Week 4,Global Hypercare Hub,91,Medium,Low,61,69,27,-11,83,90,95
+INC940332,2026-04-05 04:00:00,Mexico,SD,Sev3,High,Open,7,Yes,L2,30,Yes,Week 3,Global Hypercare Hub,55,Low,Medium,85,61,41,17,86,84,77
+INC940333,2026-04-19 20:00:00,Colombia,ABAP,Sev4,Medium,Resolved,7,Yes,L1,5,Yes,Week 3,North America War Room,54,High,Medium,80,86,37,16,75,76,91
+INC940334,2026-04-21 04:00:00,Mexico,SD,Sev3,Medium,In Progress,22,No,None,9,No,Week 4,Global Hypercare Hub,82,Medium,Low,95,86,61,-10,81,70,97
+INC940335,2026-04-02 12:00:00,Colombia,MDG,Sev4,Medium,Monitoring,7,Yes,L2,35,Yes,Week 1,Global Hypercare Hub,61,Low,Medium,81,69,30,12,55,66,84
+INC940336,2026-04-12 06:00:00,Canada,TM,Sev4,Low,Open,11,No,None,2,No,Week 3,Global Hypercare Hub,15,Medium,High,89,84,16,18,93,69,75
+INC940337,2026-04-18 00:00:00,Peru,ABAP,Sev4,Low,Resolved,9,No,None,15,Yes,Week 1,North America War Room,62,High,High,100,67,35,-4,70,82,77
+INC940338,2026-04-07 12:00:00,Argentina,CO,Sev4,Low,Monitoring,4,Yes,L1,35,No,Week 1,North America War Room,68,Medium,Medium,97,88,40,3,93,78,87
+INC940339,2026-04-18 00:00:00,USA,Basis,Sev1,Critical,Resolved,46,No,None,27,No,Week 3,North America War Room,76,Low,Medium,67,68,65,17,75,55,88
+INC940340,2026-04-15 07:00:00,Chile,CO,Sev3,Medium,In Progress,15,Yes,L1,5,No,Week 3,North America War Room,92,High,Medium,96,83,42,12,79,91,94
+INC940341,2026-04-09 13:00:00,Argentina,MDG,Sev3,High,Monitoring,5,No,None,30,No,Week 3,North America War Room,80,High,High,84,89,68,-12,60,77,77
+INC940342,2026-04-20 14:00:00,Chile,TM,Sev4,Medium,Resolved,3,Yes,L2,28,No,Week 4,Global Hypercare Hub,120,Medium,High,60,75,19,-3,62,56,92
+INC940343,2026-04-24 03:00:00,Peru,MM,Sev4,Low,Open,10,Yes,L3,34,Yes,Week 3,LATAM Command Center,81,Medium,Low,86,71,33,11,48,84,63
+INC940344,2026-04-24 11:00:00,Brazil,Basis,Sev3,Medium,Monitoring,20,Yes,L1,23,Yes,Week 3,LATAM Command Center,87,High,Medium,67,59,56,14,48,74,67
+INC940345,2026-04-06 15:00:00,Peru,TM,Sev3,High,Open,14,No,None,21,No,Week 3,LATAM Command Center,70,Medium,Low,76,84,67,-1,52,63,86
+INC940346,2026-04-10 07:00:00,Argentina,CO,Sev3,High,Open,6,Yes,L3,12,Yes,Week 2,LATAM Command Center,40,Low,Low,76,69,58,8,54,85,81
+INC940347,2026-04-21 14:00:00,Mexico,Basis,Sev1,Critical,Open,62,No,None,22,Yes,Week 4,LATAM Command Center,62,Medium,Low,94,91,27,15,69,71,81
+INC940348,2026-04-30 23:00:00,Colombia,SD,Sev4,Medium,Resolved,8,No,None,1,No,Week 3,North America War Room,48,Low,Low,93,88,32,18,53,60,71
+INC940349,2026-04-06 16:00:00,Peru,Basis,Sev4,Low,Resolved,1,No,None,26,Yes,Week 4,Global Hypercare Hub,81,Low,Medium,97,67,43,3,81,82,69
+INC940350,2026-04-08 17:00:00,Peru,SD,Sev2,High,Open,17,No,None,28,No,Week 3,Global Hypercare Hub,99,Medium,High,70,59,16,17,62,60,73
+INC940351,2026-04-03 09:00:00,Canada,Basis,Sev4,Low,Resolved,1,No,None,26,Yes,Week 1,North America War Room,41,High,Medium,75,75,62,5,80,97,75
+INC940352,2026-04-17 06:00:00,Canada,ABAP,Sev4,Medium,Resolved,4,Yes,L3,20,Yes,Week 2,LATAM Command Center,119,High,Medium,82,80,66,3,73,56,84
+INC940353,2026-04-08 17:00:00,Peru,FI,Sev3,High,Resolved,12,No,None,11,No,Week 2,LATAM Command Center,116,High,High,84,68,53,-8,83,59,87
+INC940354,2026-04-06 17:00:00,Canada,CO,Sev3,Medium,In Progress,18,Yes,L2,33,No,Week 4,North America War Room,102,High,High,84,75,15,-6,80,63,98
+INC940355,2026-04-17 12:00:00,Brazil,MM,Sev4,Medium,Monitoring,4,Yes,L2,6,Yes,Week 1,North America War Room,89,Medium,Low,74,87,15,-5,54,71,67
+INC940356,2026-04-23 01:00:00,Canada,ABAP,Sev3,High,Monitoring,24,Yes,L2,18,Yes,Week 2,LATAM Command Center,88,Low,High,63,58,49,9,58,66,90
+INC940357,2026-04-17 20:00:00,Chile,MDG,Sev2,High,In Progress,43,Yes,L2,8,No,Week 2,LATAM Command Center,47,Low,High,65,63,49,11,69,63,63
+INC940358,2026-04-13 16:00:00,Chile,CO,Sev3,High,Resolved,8,No,None,14,Yes,Week 3,LATAM Command Center,74,High,Low,75,81,62,-6,92,58,87
+INC940359,2026-04-24 14:00:00,Colombia,Basis,Sev2,Critical,In Progress,42,Yes,L3,29,No,Week 1,LATAM Command Center,43,Low,Medium,74,89,37,-1,70,97,87
+INC940360,2026-04-04 08:00:00,Canada,FI,Sev3,High,In Progress,17,Yes,L3,4,No,Week 3,LATAM Command Center,90,High,High,75,87,71,-2,92,89,93
+INC940361,2026-04-05 13:00:00,Chile,Basis,Sev2,High,Monitoring,41,Yes,L2,35,Yes,Week 2,LATAM Command Center,95,High,Low,68,88,26,1,63,86,67
+INC940362,2026-04-07 08:00:00,Canada,MM,Sev2,High,Monitoring,29,Yes,L3,22,Yes,Week 3,LATAM Command Center,79,Low,High,94,58,63,18,95,72,89
+INC940363,2026-04-22 08:00:00,Mexico,TM,Sev3,Medium,Monitoring,19,Yes,L1,12,No,Week 1,LATAM Command Center,17,Medium,High,71,66,65,11,78,73,77
+INC940364,2026-04-05 01:00:00,Canada,MM,Sev4,Low,In Progress,2,No,None,16,No,Week 3,North America War Room,84,Low,Medium,66,83,60,-5,70,68,65
+INC940365,2026-04-20 05:00:00,USA,Basis,Sev3,Medium,In Progress,12,Yes,L2,19,Yes,Week 4,LATAM Command Center,37,Low,High,97,70,31,-11,85,72,63
+INC940366,2026-04-22 04:00:00,Peru,Basis,Sev3,High,In Progress,22,No,None,29,No,Week 4,LATAM Command Center,41,Low,Medium,68,83,15,3,53,79,76
+INC940367,2026-04-15 23:00:00,Canada,SD,Sev2,Critical,Monitoring,40,Yes,L1,19,No,Week 3,LATAM Command Center,19,Low,High,64,86,62,4,86,80,63
+INC940368,2026-04-03 01:00:00,Argentina,ABAP,Sev3,Medium,Resolved,20,No,None,17,No,Week 4,LATAM Command Center,16,Medium,Medium,64,62,25,1,48,88,63
+INC940369,2026-04-23 14:00:00,Mexico,TM,Sev4,Low,In Progress,12,Yes,L1,13,No,Week 2,LATAM Command Center,113,Low,Medium,76,82,63,10,92,80,90
+INC940370,2026-04-20 07:00:00,Chile,MDG,Sev3,High,Monitoring,14,No,None,28,No,Week 3,LATAM Command Center,95,Low,Low,93,62,40,7,92,86,86
+INC940371,2026-04-14 19:00:00,Mexico,SD,Sev1,Critical,Monitoring,43,No,None,18,No,Week 3,North America War Room,57,High,Medium,90,64,29,14,52,66,98
+INC940372,2026-04-13 01:00:00,Colombia,MDG,Sev4,Medium,In Progress,12,Yes,L1,21,Yes,Week 3,LATAM Command Center,72,Low,Low,94,63,50,13,78,55,93
+INC940373,2026-04-29 01:00:00,Brazil,TM,Sev2,High,Monitoring,44,No,None,25,No,Week 1,Global Hypercare Hub,37,Low,Medium,92,66,47,-8,77,59,89
+INC940374,2026-04-01 06:00:00,Peru,SD,Sev3,High,Open,22,No,None,8,No,Week 3,Global Hypercare Hub,53,Low,Medium,63,79,50,10,80,74,72
+INC940375,2026-04-24 19:00:00,Peru,MDG,Sev3,High,Monitoring,5,Yes,L3,35,No,Week 1,North America War Room,44,High,Low,98,84,69,-1,76,94,76
+INC940376,2026-04-07 04:00:00,Colombia,Basis,Sev3,Medium,Resolved,13,Yes,L1,33,No,Week 4,LATAM Command Center,29,Low,High,65,60,19,-3,60,89,82
+INC940377,2026-04-08 11:00:00,Mexico,SD,Sev3,High,Open,8,No,None,6,No,Week 4,LATAM Command Center,99,Low,Medium,98,85,54,4,81,73,79
+INC940378,2026-04-20 02:00:00,Brazil,MDG,Sev2,Critical,Monitoring,36,No,None,3,Yes,Week 4,Global Hypercare Hub,26,High,High,74,60,58,15,88,58,85
+INC940379,2026-04-28 19:00:00,USA,MM,Sev1,Critical,Resolved,10,Yes,L3,33,No,Week 3,North America War Room,20,High,Medium,86,64,57,12,77,57,79
+INC940380,2026-04-14 22:00:00,Chile,ABAP,Sev4,Low,In Progress,8,Yes,L2,34,Yes,Week 1,LATAM Command Center,73,Medium,Medium,68,84,61,5,75,63,75
+INC940381,2026-04-06 18:00:00,USA,Basis,Sev4,Medium,Monitoring,6,No,None,3,Yes,Week 4,North America War Room,106,Medium,Low,64,89,25,-10,70,92,74
+INC940382,2026-04-03 15:00:00,Brazil,Basis,Sev4,Medium,Monitoring,9,No,None,32,Yes,Week 2,Global Hypercare Hub,50,Low,Low,61,71,71,12,77,95,73
+INC940383,2026-04-07 20:00:00,Canada,SD,Sev3,High,Monitoring,12,No,None,35,No,Week 1,Global Hypercare Hub,92,High,Low,90,83,45,13,94,96,91
+INC940384,2026-04-02 00:00:00,Colombia,MDG,Sev4,Low,Resolved,3,Yes,L3,9,Yes,Week 1,North America War Room,113,Low,High,82,87,22,-11,80,88,65
+INC940385,2026-04-18 17:00:00,Brazil,MDG,Sev4,Medium,In Progress,6,Yes,L2,7,No,Week 4,LATAM Command Center,18,High,Medium,83,92,55,-7,52,65,91
+INC940386,2026-04-30 08:00:00,Peru,MM,Sev2,High,Monitoring,42,No,None,34,No,Week 3,LATAM Command Center,69,Low,Low,70,77,27,-9,83,89,70
+INC940387,2026-04-15 08:00:00,Argentina,MDG,Sev2,High,In Progress,43,Yes,L3,6,Yes,Week 4,LATAM Command Center,18,Low,Low,85,76,28,0,76,62,85
+INC940388,2026-04-26 22:00:00,USA,FI,Sev1,Critical,Open,43,No,None,27,Yes,Week 1,Global Hypercare Hub,18,Medium,Medium,75,82,36,-9,88,62,83
+INC940389,2026-04-02 17:00:00,Canada,CO,Sev4,Medium,Resolved,11,Yes,L2,34,Yes,Week 3,Global Hypercare Hub,14,High,High,62,70,63,6,74,96,72
+INC940390,2026-04-30 09:00:00,USA,ABAP,Sev4,Medium,In Progress,4,Yes,L3,15,No,Week 2,LATAM Command Center,113,Medium,High,85,76,55,-4,83,76,91
+INC940391,2026-04-22 23:00:00,Canada,Basis,Sev3,Medium,Monitoring,4,No,None,30,Yes,Week 3,Global Hypercare Hub,113,High,High,67,92,70,-7,83,87,82
+INC940392,2026-04-16 00:00:00,Brazil,MDG,Sev3,High,Open,6,No,None,20,No,Week 2,North America War Room,75,Low,Medium,84,96,23,-9,75,84,88
+INC940393,2026-04-13 20:00:00,USA,ABAP,Sev2,Critical,Open,23,No,None,21,No,Week 2,North America War Room,109,Medium,High,91,69,44,13,48,56,82
+INC940394,2026-04-29 23:00:00,Brazil,ABAP,Sev2,High,Open,5,No,None,26,No,Week 3,Global Hypercare Hub,45,Medium,Low,69,77,53,11,95,61,78
+INC940395,2026-04-27 10:00:00,Peru,Basis,Sev3,Medium,Open,20,No,None,22,Yes,Week 1,LATAM Command Center,71,Low,High,65,71,18,13,94,64,82
+INC940396,2026-04-22 12:00:00,Argentina,FI,Sev2,Critical,Monitoring,13,No,None,12,No,Week 1,LATAM Command Center,103,Medium,High,94,60,48,-10,67,85,91
+INC940397,2026-04-11 05:00:00,Canada,TM,Sev3,Medium,Monitoring,24,Yes,L3,14,No,Week 3,North America War Room,96,High,High,94,96,37,17,48,57,62
+INC940398,2026-04-07 06:00:00,Peru,CO,Sev2,High,Monitoring,44,Yes,L3,34,Yes,Week 1,North America War Room,20,High,Low,92,61,70,-8,65,98,64
+INC940399,2026-04-01 18:00:00,Peru,TM,Sev2,Critical,Open,33,Yes,L2,18,No,Week 1,North America War Room,37,Low,High,70,92,46,0,64,70,74
+INC940400,2026-04-18 05:00:00,Canada,MDG,Sev1,Critical,Resolved,64,Yes,L3,28,No,Week 4,LATAM Command Center,120,Medium,Low,90,76,59,16,60,66,79
+INC940401,2026-04-26 11:00:00,Canada,FI,Sev4,Low,Monitoring,1,No,None,20,No,Week 3,LATAM Command Center,32,Medium,High,85,90,58,-11,76,96,98
+INC940402,2026-04-14 11:00:00,Brazil,MM,Sev1,Critical,Monitoring,56,No,None,6,Yes,Week 4,Global Hypercare Hub,32,Low,Medium,68,84,39,-8,90,91,70
+INC940403,2026-04-23 11:00:00,Mexico,ABAP,Sev4,Medium,Open,12,No,None,2,No,Week 3,North America War Room,56,Medium,High,61,73,41,11,65,81,77
+INC940404,2026-04-30 05:00:00,Peru,MM,Sev4,Low,Monitoring,11,No,None,33,No,Week 3,North America War Room,51,Medium,High,70,86,28,17,66,65,73
+INC940405,2026-04-19 11:00:00,Brazil,SD,Sev3,Medium,In Progress,16,No,None,28,Yes,Week 1,LATAM Command Center,13,High,Low,71,75,23,-7,95,90,92
+INC940406,2026-04-11 07:00:00,Peru,Basis,Sev3,Medium,Monitoring,6,Yes,L3,14,Yes,Week 1,Global Hypercare Hub,81,Medium,High,96,70,29,1,63,89,92
+INC940407,2026-04-25 08:00:00,Canada,Basis,Sev3,High,In Progress,20,Yes,L1,2,Yes,Week 4,LATAM Command Center,82,Medium,High,94,59,50,9,80,68,63
+INC940408,2026-04-09 14:00:00,Peru,CO,Sev3,Medium,Monitoring,18,Yes,L1,1,Yes,Week 3,North America War Room,83,Low,High,92,60,30,6,95,62,73
+INC940409,2026-04-03 11:00:00,Peru,TM,Sev3,Medium,Open,17,Yes,L2,11,No,Week 1,Global Hypercare Hub,42,Medium,Medium,62,66,64,5,68,96,93
+INC940410,2026-04-14 02:00:00,Brazil,CO,Sev3,High,Monitoring,16,No,None,11,No,Week 3,LATAM Command Center,31,High,Medium,63,75,57,-1,90,60,92
+INC940411,2026-04-03 20:00:00,Chile,MM,Sev3,Medium,Resolved,7,Yes,L3,29,No,Week 2,Global Hypercare Hub,18,Low,Medium,90,92,29,-6,57,95,67
+INC940412,2026-04-02 16:00:00,Brazil,MM,Sev2,Critical,Resolved,48,Yes,L2,10,No,Week 2,North America War Room,31,Low,Low,76,88,52,14,76,94,80
+INC940413,2026-04-29 02:00:00,Mexico,Basis,Sev3,High,In Progress,15,Yes,L1,6,No,Week 3,LATAM Command Center,101,Medium,High,68,69,65,-11,56,63,98
+INC940414,2026-04-11 13:00:00,Chile,Basis,Sev4,Medium,Monitoring,3,Yes,L2,33,No,Week 2,LATAM Command Center,103,Low,Medium,81,88,49,10,68,57,76
+INC940415,2026-04-16 03:00:00,Peru,TM,Sev4,Medium,Open,9,No,None,26,Yes,Week 2,LATAM Command Center,82,Medium,Low,64,95,34,12,61,78,79
+INC940416,2026-04-20 21:00:00,USA,ABAP,Sev3,Medium,Monitoring,21,No,None,11,Yes,Week 4,North America War Room,118,High,High,74,94,30,-5,62,69,91
+INC940417,2026-04-29 06:00:00,Peru,MM,Sev3,High,Resolved,5,Yes,L1,35,No,Week 3,North America War Room,104,High,Medium,79,83,39,5,66,56,95
+INC940418,2026-04-01 10:00:00,Canada,Basis,Sev4,Low,Open,8,No,None,28,No,Week 3,LATAM Command Center,88,High,High,98,74,72,11,58,86,62
+INC940419,2026-04-20 10:00:00,Canada,MM,Sev2,High,Open,28,Yes,L2,7,Yes,Week 4,LATAM Command Center,85,Medium,Low,60,86,34,5,54,88,62
+INC940420,2026-04-19 23:00:00,USA,MM,Sev3,Medium,Monitoring,3,No,None,29,Yes,Week 4,Global Hypercare Hub,71,High,Low,90,70,38,-9,88,88,82
+INC940421,2026-04-07 18:00:00,Mexico,TM,Sev4,Low,In Progress,1,Yes,L3,15,No,Week 4,LATAM Command Center,118,Low,High,71,84,52,13,54,94,67
+INC940422,2026-04-09 18:00:00,Peru,CO,Sev4,Low,Open,3,Yes,L3,15,Yes,Week 3,Global Hypercare Hub,88,High,High,98,74,52,4,86,81,98
+INC940423,2026-04-26 14:00:00,Canada,TM,Sev2,High,Resolved,9,Yes,L1,7,Yes,Week 1,LATAM Command Center,68,High,Medium,94,81,44,6,64,61,74
+INC940424,2026-04-23 05:00:00,Peru,FI,Sev3,Medium,Open,8,No,None,5,Yes,Week 3,North America War Room,46,Medium,Medium,86,75,29,4,68,88,60
+INC940425,2026-04-18 17:00:00,Argentina,SD,Sev4,Low,In Progress,3,Yes,L1,24,Yes,Week 3,LATAM Command Center,52,Medium,Low,61,93,35,-4,61,84,66
+INC940426,2026-04-01 22:00:00,Canada,TM,Sev3,High,Resolved,4,Yes,L1,15,Yes,Week 1,North America War Room,33,High,High,89,63,62,17,74,65,88
+INC940427,2026-04-30 10:00:00,Peru,CO,Sev3,Medium,Open,23,No,None,25,No,Week 2,Global Hypercare Hub,43,Low,High,82,61,51,-4,74,61,85
+INC940428,2026-04-30 05:00:00,Colombia,MM,Sev3,High,In Progress,12,Yes,L3,34,Yes,Week 2,LATAM Command Center,15,Low,High,63,69,64,13,83,71,99
+INC940429,2026-04-12 20:00:00,Peru,SD,Sev2,High,Resolved,19,Yes,L1,28,Yes,Week 3,LATAM Command Center,47,Medium,Low,84,65,32,-7,53,91,94
+INC940430,2026-04-24 11:00:00,Mexico,Basis,Sev3,Medium,Monitoring,22,No,None,22,Yes,Week 3,Global Hypercare Hub,87,Low,Low,92,63,43,12,87,93,70
+INC940431,2026-04-29 07:00:00,Brazil,MDG,Sev3,High,Open,4,Yes,L3,10,No,Week 1,LATAM Command Center,66,High,Low,77,77,22,0,76,85,95
+INC940432,2026-04-27 20:00:00,Brazil,MM,Sev4,Low,Open,6,Yes,L2,7,Yes,Week 2,Global Hypercare Hub,110,High,Low,60,71,59,-7,72,86,97
+INC940433,2026-04-05 11:00:00,Chile,SD,Sev4,Medium,In Progress,10,Yes,L1,1,Yes,Week 4,Global Hypercare Hub,96,Low,Medium,76,60,28,14,81,71,95
+INC940434,2026-04-24 20:00:00,Canada,TM,Sev3,High,In Progress,22,No,None,31,No,Week 3,North America War Room,95,Low,Low,62,71,19,-11,88,96,76
+INC940435,2026-04-11 23:00:00,Mexico,CO,Sev4,Medium,In Progress,4,Yes,L2,27,Yes,Week 3,LATAM Command Center,101,Low,Medium,62,90,31,-12,76,74,83
+INC940436,2026-04-08 00:00:00,Canada,CO,Sev3,High,Open,8,Yes,L3,26,No,Week 1,North America War Room,22,Medium,Medium,87,62,45,9,65,73,76
+INC940437,2026-04-14 20:00:00,USA,TM,Sev2,Critical,Open,4,No,None,10,Yes,Week 2,Global Hypercare Hub,74,Medium,Low,79,86,31,-9,74,94,62
+INC940438,2026-04-20 11:00:00,Peru,CO,Sev2,Critical,Open,41,No,None,27,Yes,Week 2,LATAM Command Center,102,Medium,Medium,71,89,53,15,55,60,95
+INC940439,2026-04-21 02:00:00,Brazil,FI,Sev3,Medium,Monitoring,3,Yes,L3,25,No,Week 1,North America War Room,41,Medium,Medium,68,96,70,-8,68,93,77
+INC940440,2026-04-22 11:00:00,Brazil,ABAP,Sev4,Low,In Progress,10,No,None,19,No,Week 3,LATAM Command Center,59,High,Medium,90,81,69,14,90,81,63
+INC940441,2026-04-02 04:00:00,Argentina,Basis,Sev4,Low,Monitoring,2,No,None,27,No,Week 1,North America War Room,89,High,High,79,78,30,0,81,57,73
+INC940442,2026-04-06 04:00:00,USA,ABAP,Sev4,Low,Monitoring,7,No,None,11,No,Week 4,Global Hypercare Hub,85,Medium,High,75,64,18,-12,90,68,84
+INC940443,2026-04-16 01:00:00,Chile,MM,Sev3,High,Monitoring,24,No,None,5,Yes,Week 3,LATAM Command Center,82,Low,High,73,90,34,3,61,78,85
+INC940444,2026-04-21 23:00:00,Argentina,FI,Sev2,Critical,Resolved,35,No,None,23,Yes,Week 1,North America War Room,111,Medium,Medium,67,87,42,9,50,70,78
+INC940445,2026-04-07 11:00:00,USA,Basis,Sev4,Medium,Resolved,11,No,None,5,Yes,Week 3,North America War Room,40,Medium,High,64,82,37,-4,82,60,88
+INC940446,2026-04-24 20:00:00,Chile,SD,Sev4,Medium,Resolved,7,No,None,33,Yes,Week 1,North America War Room,47,Low,High,98,90,47,13,87,75,71
+INC940447,2026-04-23 08:00:00,Brazil,CO,Sev3,Medium,Open,19,No,None,21,Yes,Week 1,Global Hypercare Hub,19,Low,Medium,68,73,17,-7,94,60,86
+INC940448,2026-04-06 22:00:00,Peru,TM,Sev3,High,Resolved,1,Yes,L3,3,Yes,Week 2,Global Hypercare Hub,41,High,Low,65,63,31,4,94,83,89
+INC940449,2026-04-13 17:00:00,Chile,Basis,Sev2,Critical,Resolved,27,Yes,L3,31,Yes,Week 1,North America War Room,82,High,Medium,79,92,40,0,91,56,65
+INC940450,2026-04-08 07:00:00,USA,ABAP,Sev2,Critical,In Progress,12,Yes,L2,17,Yes,Week 2,LATAM Command Center,64,High,Low,91,71,49,9,65,91,77
+INC940451,2026-04-28 02:00:00,Brazil,FI,Sev2,Critical,Open,37,Yes,L2,30,No,Week 4,North America War Room,54,High,Medium,61,91,59,9,95,84,85
+INC940452,2026-04-12 20:00:00,Brazil,FI,Sev2,Critical,In Progress,26,Yes,L1,35,Yes,Week 4,LATAM Command Center,114,Low,Low,98,68,29,1,77,79,60
+INC940453,2026-04-14 20:00:00,Mexico,SD,Sev3,High,In Progress,8,Yes,L3,21,Yes,Week 4,LATAM Command Center,91,High,Medium,95,92,19,-12,72,57,87
+INC940454,2026-04-26 05:00:00,Mexico,FI,Sev4,Medium,Monitoring,11,Yes,L2,36,No,Week 2,Global Hypercare Hub,75,Medium,Low,61,74,42,11,92,62,76
+INC940455,2026-04-01 06:00:00,Colombia,MM,Sev2,High,Open,32,No,None,21,No,Week 3,North America War Room,120,Medium,Low,98,68,47,4,81,58,78
+INC940456,2026-04-28 06:00:00,Chile,FI,Sev3,High,Open,18,No,None,8,Yes,Week 2,Global Hypercare Hub,106,Medium,Medium,79,87,33,-11,57,75,98
+INC940457,2026-04-20 11:00:00,Mexico,ABAP,Sev4,Low,Monitoring,9,Yes,L1,13,No,Week 4,North America War Room,67,High,Low,95,70,46,-4,74,87,79
+INC940458,2026-04-20 23:00:00,Chile,CO,Sev2,High,Monitoring,18,No,None,33,Yes,Week 3,LATAM Command Center,105,Low,Medium,93,85,68,0,75,86,63
+INC940459,2026-04-21 21:00:00,Chile,ABAP,Sev2,High,Open,19,No,None,22,Yes,Week 3,North America War Room,17,Low,Low,65,67,28,1,49,58,79
+INC940460,2026-04-11 15:00:00,Chile,ABAP,Sev2,High,In Progress,5,Yes,L2,19,No,Week 1,LATAM Command Center,75,Low,Medium,89,83,67,10,57,96,84
+INC940461,2026-04-09 22:00:00,Colombia,MM,Sev1,Critical,Open,67,Yes,L3,19,No,Week 3,Global Hypercare Hub,103,High,High,90,63,21,9,68,92,60
+INC940462,2026-04-20 14:00:00,Chile,TM,Sev4,Medium,Monitoring,2,No,None,33,No,Week 3,Global Hypercare Hub,106,Medium,High,64,87,60,10,69,76,81
+INC940463,2026-04-06 09:00:00,Brazil,Basis,Sev4,Low,Monitoring,10,Yes,L1,33,No,Week 3,Global Hypercare Hub,56,Medium,High,88,71,63,-9,88,56,78
+INC940464,2026-04-03 12:00:00,Brazil,Basis,Sev3,Medium,Monitoring,14,No,None,9,Yes,Week 2,North America War Room,70,High,High,95,88,63,-11,50,55,85
+INC940465,2026-04-21 12:00:00,Canada,FI,Sev4,Low,In Progress,1,Yes,L1,31,No,Week 3,North America War Room,79,High,Medium,67,87,59,4,76,68,99
+INC940466,2026-04-10 19:00:00,Argentina,ABAP,Sev1,Critical,Resolved,62,No,None,14,No,Week 4,LATAM Command Center,47,Low,High,63,70,30,-6,90,91,91
+INC940467,2026-04-24 01:00:00,Chile,TM,Sev2,High,In Progress,42,No,None,29,No,Week 1,Global Hypercare Hub,113,High,Low,82,76,22,16,87,77,88
+INC940468,2026-04-06 12:00:00,Chile,MDG,Sev1,Critical,Open,14,No,None,34,No,Week 2,Global Hypercare Hub,13,Low,Medium,65,67,23,17,67,88,68
+INC940469,2026-04-26 19:00:00,Chile,Basis,Sev3,Medium,Resolved,21,Yes,L3,1,No,Week 4,North America War Room,93,Low,Medium,62,76,43,-8,62,84,72
+INC940470,2026-04-16 09:00:00,Peru,ABAP,Sev2,Critical,Monitoring,22,No,None,9,No,Week 4,North America War Room,117,Medium,Low,60,66,52,-3,66,96,68
+INC940471,2026-04-19 10:00:00,Canada,ABAP,Sev3,High,Open,6,Yes,L2,7,No,Week 3,Global Hypercare Hub,100,Medium,High,67,62,18,16,79,66,98
+INC940472,2026-04-27 01:00:00,Chile,MDG,Sev2,High,In Progress,4,No,None,15,No,Week 4,North America War Room,85,Medium,Medium,76,61,47,17,74,92,64
+INC940473,2026-04-28 20:00:00,Brazil,FI,Sev2,Critical,In Progress,11,No,None,24,Yes,Week 4,LATAM Command Center,84,Medium,High,89,61,41,0,49,68,69
+INC940474,2026-04-16 14:00:00,USA,FI,Sev1,Critical,Resolved,28,Yes,L2,28,No,Week 3,North America War Room,19,Low,Medium,76,71,25,16,55,97,99
+INC940475,2026-04-15 07:00:00,Argentina,SD,Sev3,High,Open,20,No,None,34,Yes,Week 2,North America War Room,76,Low,Low,78,77,27,2,75,58,88
+INC940476,2026-04-01 20:00:00,Brazil,Basis,Sev2,High,Open,43,No,None,26,No,Week 3,North America War Room,75,High,Low,82,83,68,-8,85,71,91
+INC940477,2026-04-05 23:00:00,Peru,FI,Sev1,Critical,Open,68,No,None,23,Yes,Week 4,LATAM Command Center,17,Medium,Low,98,69,42,6,86,97,85
+INC940478,2026-04-10 19:00:00,Chile,MM,Sev4,Low,Open,7,Yes,L1,4,No,Week 1,Global Hypercare Hub,14,Medium,High,82,93,43,-3,71,70,99
+INC940479,2026-04-15 21:00:00,Argentina,TM,Sev1,Critical,Monitoring,17,Yes,L2,1,Yes,Week 3,North America War Room,109,Low,High,60,62,46,15,90,79,83
+INC940480,2026-04-03 12:00:00,Argentina,CO,Sev3,High,In Progress,10,Yes,L2,17,No,Week 3,Global Hypercare Hub,71,High,High,62,70,50,13,59,91,94
+INC940481,2026-04-21 07:00:00,Peru,SD,Sev3,High,Monitoring,3,No,None,10,No,Week 4,North America War Room,82,Low,Low,86,94,56,2,61,92,76
+INC940482,2026-04-25 08:00:00,Colombia,MDG,Sev4,Low,Monitoring,8,Yes,L2,8,Yes,Week 2,LATAM Command Center,25,Low,Medium,75,78,31,6,92,72,78
+INC940483,2026-04-10 02:00:00,Chile,CO,Sev4,Low,Resolved,8,Yes,L2,29,No,Week 4,LATAM Command Center,22,Medium,High,60,67,24,-9,66,67,90
+INC940484,2026-04-09 02:00:00,USA,MM,Sev3,Medium,Resolved,13,Yes,L1,3,Yes,Week 2,North America War Room,94,Medium,Medium,66,76,53,7,91,80,96
+INC940485,2026-04-27 10:00:00,Canada,TM,Sev1,Critical,Open,35,Yes,L3,22,Yes,Week 3,Global Hypercare Hub,36,Low,Medium,82,62,60,6,54,83,63
+INC940486,2026-04-17 07:00:00,Mexico,TM,Sev1,Critical,Monitoring,36,Yes,L1,2,No,Week 2,Global Hypercare Hub,35,Low,High,67,60,29,13,50,94,86
+INC940487,2026-04-04 13:00:00,USA,ABAP,Sev4,Medium,In Progress,1,Yes,L1,24,Yes,Week 3,LATAM Command Center,30,Low,Low,91,67,39,14,93,94,62
+INC940488,2026-04-26 18:00:00,Mexico,ABAP,Sev4,Low,In Progress,10,No,None,13,No,Week 1,North America War Room,17,Medium,High,81,84,33,6,57,70,87
+INC940489,2026-04-13 07:00:00,Brazil,SD,Sev4,Low,In Progress,4,Yes,L2,24,No,Week 3,Global Hypercare Hub,33,Low,Medium,65,84,33,-3,61,97,91
+INC940490,2026-04-04 08:00:00,Colombia,CO,Sev3,High,Resolved,24,Yes,L3,11,No,Week 3,LATAM Command Center,37,High,High,83,61,17,15,76,82,76
+INC940491,2026-04-19 21:00:00,Argentina,SD,Sev4,Low,Monitoring,4,No,None,34,No,Week 3,LATAM Command Center,24,Low,Low,66,74,55,0,50,55,93
+INC940492,2026-04-16 18:00:00,Chile,SD,Sev3,Medium,Resolved,11,Yes,L3,19,No,Week 1,LATAM Command Center,86,Low,Medium,73,79,55,18,70,76,64
+INC940493,2026-04-12 14:00:00,USA,TM,Sev3,Medium,Monitoring,10,Yes,L2,11,Yes,Week 2,LATAM Command Center,95,High,High,78,72,24,5,94,85,68
+INC940494,2026-04-10 00:00:00,Mexico,MM,Sev3,High,Open,3,Yes,L2,20,No,Week 3,LATAM Command Center,74,High,High,61,68,41,11,66,91,68
+INC940495,2026-04-04 00:00:00,Colombia,TM,Sev3,High,Monitoring,10,Yes,L3,32,Yes,Week 4,LATAM Command Center,25,High,High,90,63,33,11,69,94,67
+INC940496,2026-04-04 08:00:00,USA,Basis,Sev4,Medium,Resolved,3,No,None,12,Yes,Week 3,Global Hypercare Hub,80,Low,Medium,94,77,71,6,87,69,67
+INC940497,2026-04-28 06:00:00,Colombia,CO,Sev1,Critical,Resolved,26,Yes,L1,1,Yes,Week 1,Global Hypercare Hub,104,Medium,Medium,66,78,49,-6,68,88,75
+INC940498,2026-04-16 09:00:00,Colombia,CO,Sev2,High,Resolved,40,Yes,L1,11,Yes,Week 3,Global Hypercare Hub,35,High,High,66,71,22,12,50,88,70
+INC940499,2026-04-22 00:00:00,Mexico,MDG,Sev4,Low,Monitoring,11,Yes,L1,18,No,Week 4,Global Hypercare Hub,27,High,Medium,68,76,33,-12,81,94,60
+INC940500,2026-04-08 02:00:00,Canada,MDG,Sev3,High,Open,5,No,None,25,No,Week 2,LATAM Command Center,79,High,High,97,82,31,-4,54,73,65
