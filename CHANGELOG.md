@@ -11,6 +11,32 @@ All notable changes to the SAP Cutover Framework project will be documented in t
 The format is inspired by Keep a Changelog and follows semantic-style repository evolution for framework governance.
 
 ---
+## [1.2.0] - 2026-05-16
+
+### Added
+- Operational Intelligence capability
+- Executive telemetry governance model
+- Metrics Dictionary
+- Synthetic operational dataset
+- Executive Profile section
+- Leadership Philosophy
+- Operational Governance Vision
+- Selected Transformations
+- Operational Intelligence README
+- Executive positioning assets
+
+### Introduced
+- Hypercare Stability Index (HSI)
+- Operational Risk Exposure (ORE)
+- Command Center Efficiency (CCE)
+- Stabilization Velocity (SV)
+- Stabilization Forecast Index (SFI)
+- Rollback Readiness Score (RRS)
+
+### Strategic Evolution
+- Repository evolution from cutover framework toward operational intelligence platform
+
+---
 
 # [v1.1] - 2026-05-13
 
