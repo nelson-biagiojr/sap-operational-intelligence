@@ -2,148 +2,193 @@
 
 All notable changes to this project will be documented in this file.
 
-This project follows a structured versioning approach aligned with semantic versioning principles.
-
-# Changelog
-
-All notable changes to the SAP Cutover Framework project will be documented in this file.
-
-The format is inspired by Keep a Changelog and follows semantic-style repository evolution for framework governance.
-
----
-## [1.2.0] - 2026-05-16
-
-### Added
-- Operational Intelligence capability
-- Executive telemetry governance model
-- Metrics Dictionary
-- Synthetic operational dataset
-- Executive Profile section
-- Leadership Philosophy
-- Operational Governance Vision
-- Selected Transformations
-- Operational Intelligence README
-- Executive positioning assets
-
-### Introduced
-- Hypercare Stability Index (HSI)
-- Operational Risk Exposure (ORE)
-- Command Center Efficiency (CCE)
-- Stabilization Velocity (SV)
-- Stabilization Forecast Index (SFI)
-- Rollback Readiness Score (RRS)
-
-### Strategic Evolution
-- Repository evolution from cutover framework toward operational intelligence platform
+The format is inspired by Keep a Changelog and follows Semantic Versioning principles.
 
 ---
 
-# [v1.1] - 2026-05-13
+# [2.0.0] - 2026-05-17
 
-## Operational Governance & Maturity Framework Release
+## Major Strategic Evolution
 
-This release introduces the first consolidated version of the SAP Go-Live Operational Maturity Framework (GOMF), focused on operational governance, stabilization intelligence, telemetry-driven execution, and executive-level operational visibility for SAP transformations.
+This release transforms the repository from a traditional SAP cutover framework into a broader Operational Intelligence platform for SAP transformations.
+
+The project now expands beyond deployment execution into:
+
+- Operational telemetry
+- Stabilization observability
+- Executive operational visibility
+- Hypercare intelligence
+- Governance-driven operational models
+- Transformation telemetry concepts
 
 ---
 
 ## Added
 
-### Go-Live Maturity Framework
-- 5-level operational maturity model
-- maturity transition map
-- operational governance evolution model
-- SAP go-live operational mind map
-- McKinsey-style maturity visuals
+### Operational Intelligence Capability Layer
 
-### Operational Metrics Framework
-- Cutover Readiness Score (CRS)
-- Defect Leakage Rate (DLR)
-- Business Readiness Index (BRI)
-- Hypercare Stability Index (HSI)
-- Command Center Efficiency (CCE)
-- Transport Governance Index (TGI)
-- Stabilization Velocity (SV)
-- Rollback Readiness Score (RRS)
-- Operational Risk Exposure (ORE)
-- Stabilization Forecast Index (SFI)
+- Operational Intelligence repository structure
+- Telemetry Model
+- Metrics Dictionary
+- Operational KPI architecture
+- Stabilization observability concepts
+- Executive telemetry concepts
+- Synthetic operational telemetry dataset
+- Executive Command Center conceptual model
 
-### Executive Visual Assets
-- operational telemetry dashboards
-- KPI governance visuals
-- executive operational cockpit diagrams
-- enterprise-style infographic assets
+---
 
-### Repository Improvements
-- standardized image architecture
-- markdown path normalization
-- framework structure refactoring
-- repository scalability improvements
-- visual consistency standardization
+### Executive Profile Capability
+
+- Leadership Philosophy framework
+- Operational Governance framework
+- Executive positioning concepts
+- Transformation leadership narrative
+- Strategic governance vision
+
+---
+
+### Strategic Repository Evolution
+
+- SAP Operational Intelligence positioning
+- Telemetry-driven governance narrative
+- Stabilization intelligence concepts
+- Executive operational visibility framework
+- Operational convergence concepts
+- Hypercare intelligence direction
 
 ---
 
 ## Improved
 
-- governance-oriented repository organization
-- executive storytelling consistency
-- operational telemetry concepts
-- navigation structure
-- image rendering reliability
-- framework maintainability
+### Repository Architecture
+
+- Repository navigation structure
+- README hierarchy
+- Documentation organization
+- Capability segmentation
+- Internal linking structure
+- Information architecture
+
+---
+
+### Strategic Narrative
+
+- Executive-level positioning
+- Systems thinking integration
+- Governance storytelling
+- Telemetry narrative consistency
+- Operational intelligence framing
+- Strategic capability language
+
+---
+
+### Visual Identity
+
+- Hero image structure
+- Operational Intelligence branding
+- Executive visual consistency
+- Repository presentation refinement
+- Documentation visual hierarchy
+
+---
+
+## Repository Rebranding
+
+Repository renamed from:
+
+```text
+sap-cutover-framework
+```
+
+to:
+
+```text
+sap-operational-intelligence
+```
+
+This change reflects the strategic evolution of the project from a deployment-focused framework into a broader operational intelligence platform for SAP transformations.
 
 ---
 
 ## Strategic Direction
 
-Future releases will expand:
-- AI-assisted operational telemetry
-- predictive stabilization analytics
-- Power BI governance dashboards
-- synthetic operational datasets
-- hypercare command center models
-- operational intelligence concepts
-- SAP operational governance playbooks
+The repository now explores how telemetry, operational intelligence, stabilization governance, and executive visibility can evolve SAP transformation management into measurable operational systems.
+
+Future releases will continue expanding:
+
+- Stabilization telemetry
+- Hypercare intelligence
+- Executive observability
+- AI-assisted operational governance
+- Recovery intelligence models
+- Transformation resilience frameworks
+- Operational convergence modeling
 
 ---
 
-## [1.0.0] - 2026-05-02
+# [1.2.0] - 2026-05-16
 
-### Added
-- Initial release of the SAP Cutover Framework
-- AI for SAP Cutover Management framework
-- Multi-Region Cutover Playbook
-- Regulatory Go-Live Model
-- RACI Cutover Template
-- Pre-SUM Preparation Framework
-- Cutover Communication Templates
-- Hypercare Framework
-- Executive Summary structure
+## Added
 
-### Added (Visual Assets)
-- Cutover execution flow diagram
-- Multi-region cutover visualization
-- RACI matrix diagram
-- AI decision support diagram
-- Pre-SUM preparation visual framework
-
-### Added (Governance & Structure)
-- Contributing guidelines and collaboration model
-- Repository structure standardization
-- Assets folder for visual content
-
-### Notes
-- This version establishes the baseline of the framework
-- Content is based on real-world SAP S/4HANA program experience
-- Focus on execution, governance, and decision-making under pressure
+- Operational Intelligence initial structure
+- Executive Profile capability
+- Leadership Philosophy framework
+- Operational Governance concepts
+- Metrics Dictionary
+- Initial telemetry concepts
+- Operational Intelligence README
+- Executive command center direction
 
 ---
 
-## [Unreleased]
+## Improved
 
-### Planned
-- Downloadable templates (Excel/CSV)
-- Advanced execution checklists
-- Expanded AI prompt library
-- Additional real-world scenarios
-- Enhanced visual standardization
-- Automation and tooling support
+- Repository visual identity
+- Governance narrative
+- Strategic positioning
+- Executive communication structure
+- Operational governance direction
+
+---
+
+# [1.1.0] - 2026-05-15
+
+## Added
+
+- Go-Live Maturity Model
+- Hypercare governance concepts
+- Operational metrics framework
+- Stabilization governance models
+- Deployment operational concepts
+- Cutover governance structure
+
+---
+
+## Improved
+
+- Repository organization
+- Governance documentation
+- Hypercare operational structure
+- Visual framework consistency
+
+---
+
+# [1.0.0] - 2026-05-14
+
+## Initial Release
+
+Initial repository structure for SAP cutover governance and transformation operational frameworks.
+
+---
+
+## Added
+
+- Cutover governance concepts
+- Hypercare operational foundations
+- Deployment structure
+- Communication templates
+- RACI structures
+- Cutover operational flows
+- Lessons learned repository
+- Governance documentation
