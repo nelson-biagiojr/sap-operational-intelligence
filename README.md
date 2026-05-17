@@ -11,7 +11,7 @@
 # SAP Operational Intelligence
 
 <p align="center">
-  <img src="assets/sap-operational-intelligence-map.png" width="100%">
+  <img src="assets/release-timeline-v2.png" width="100%">
 </p>
 
 > Turning post-deployment noise into structured operational visibility.
