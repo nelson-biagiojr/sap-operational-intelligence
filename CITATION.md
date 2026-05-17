@@ -22,7 +22,7 @@ or public content, please use one of the formats below.
 
 **APA (7th edition)**
 
-Biagio Junior, N. (2024). *SAP Operational Intelligence: A framework for
+Biagio Junior, N. (2026). *SAP Operational Intelligence: A framework for
 cutover governance, stabilization telemetry, and executive visibility in
 SAP S/4HANA transformation programs*. GitHub.
 https://github.com/nelson-biagiojr/sap-cutover-framework
@@ -33,7 +33,7 @@ https://github.com/nelson-biagiojr/sap-cutover-framework
 
 BIAGIO JUNIOR, Nelson. **SAP Operational Intelligence**: a framework for
 cutover governance, stabilization telemetry, and executive visibility in
-SAP S/4HANA transformation programs. São Paulo, 2024. Disponível em:
+SAP S/4HANA transformation programs. São Paulo, 2026. Disponível em:
 https://github.com/nelson-biagiojr/sap-cutover-framework.
 Acesso em: inserir data de acesso.
 
@@ -41,12 +41,12 @@ Acesso em: inserir data de acesso.
 
 **Harvard**
 
-Biagio Junior, N 2024, *SAP Operational Intelligence: A framework for
+Biagio Junior, N 2026, *SAP Operational Intelligence: A framework for
 cutover governance, stabilization telemetry, and executive visibility in
 SAP S/4HANA transformation programs*, GitHub, viewed inserir data de acesso,
 <https://github.com/nelson-biagiojr/sap-cutover-framework>.
 
-*In-text citation:* (Biagio Junior 2024)
+*In-text citation:* (Biagio Junior 2026)
 
 ---
 
@@ -54,11 +54,11 @@ SAP S/4HANA transformation programs*, GitHub, viewed inserir data de acesso,
 
 Nelson Biagio Junior, *SAP Operational Intelligence: A Framework for
 Cutover Governance, Stabilization Telemetry, and Executive Visibility
-in SAP S/4HANA Transformation Programs* (GitHub 2024)
+in SAP S/4HANA Transformation Programs* (GitHub 2026)
 <https://github.com/nelson-biagiojr/sap-cutover-framework>
 accessed inserir data de acesso.
 
-*Subsequent footnote (short form):* Biagio Junior, *SAP Operational Intelligence* (2024).
+*Subsequent footnote (short form):* Biagio Junior, *SAP Operational Intelligence* (2026).
 
 ---
 
@@ -66,14 +66,14 @@ accessed inserir data de acesso.
 
 Biagio Junior, Nelson. *SAP Operational Intelligence: A Framework for
 Cutover Governance, Stabilization Telemetry, and Executive Visibility
-in SAP S/4HANA Transformation Programs*. GitHub, 2024.
+in SAP S/4HANA Transformation Programs*. GitHub, 2026.
 https://github.com/nelson-biagiojr/sap-cutover-framework
 
 ---
 
 **ISO 690**
 
-BIAGIO JUNIOR, Nelson. *SAP Operational Intelligence* [online]. 2024
+BIAGIO JUNIOR, Nelson. *SAP Operational Intelligence* [online]. 2026
 [cited: insert access date].
 Available from: https://github.com/nelson-biagiojr/sap-cutover-framework
 
@@ -82,12 +82,12 @@ Available from: https://github.com/nelson-biagiojr/sap-cutover-framework
 **BibTeX**
 
 ```bibtex
-@misc{biagiojunior2024sap,
+@misc{biagiojunior2026sap,
   author       = {Biagio Junior, Nelson},
   title        = {SAP Operational Intelligence: A Framework for Cutover
                   Governance, Stabilization Telemetry, and Executive
                   Visibility in SAP S/4HANA Transformation Programs},
-  year         = {2024},
+  year         = {2026},
   publisher    = {GitHub},
   howpublished = {\url{https://github.com/nelson-biagiojr/sap-cutover-framework}},
   note         = {Accessed: insert access date}
@@ -104,7 +104,7 @@ the specific document as a chapter or section within it.
 
 **APA**
 
-Biagio Junior, N. (2024). Telemetry model. In *SAP Operational Intelligence*.
+Biagio Junior, N. (2026). Telemetry model. In *SAP Operational Intelligence*.
 GitHub. https://nelson-biagiojr.github.io/sap-operational-intelligence/operational-intelligence/telemetry-model.html
 
 ---
@@ -112,7 +112,7 @@ GitHub. https://nelson-biagiojr.github.io/sap-operational-intelligence/operation
 **ABNT**
 
 BIAGIO JUNIOR, Nelson. Telemetry Model. In: ______. **SAP Operational
-Intelligence**. São Paulo, 2024. Disponível em:
+Intelligence**. São Paulo, 2026. Disponível em:
 https://nelson-biagiojr.github.io/sap-operational-intelligence/operational-intelligence/telemetry-model.html.
 Acesso em: inserir data de acesso.
 
@@ -120,7 +120,7 @@ Acesso em: inserir data de acesso.
 
 **Harvard**
 
-Biagio Junior, N 2024, 'Telemetry Model', in *SAP Operational Intelligence*,
+Biagio Junior, N 2026, 'Telemetry Model', in *SAP Operational Intelligence*,
 GitHub, viewed inserir data de acesso,
 <https://nelson-biagiojr.github.io/sap-operational-intelligence/operational-intelligence/telemetry-model.html>.
 
@@ -129,7 +129,7 @@ GitHub, viewed inserir data de acesso,
 **Oxford**
 
 Nelson Biagio Junior, 'Telemetry Model' in *SAP Operational Intelligence*
-(GitHub 2024)
+(GitHub 2026)
 <https://nelson-biagiojr.github.io/sap-operational-intelligence/operational-intelligence/telemetry-model.html>
 accessed inserir data de acesso.
 

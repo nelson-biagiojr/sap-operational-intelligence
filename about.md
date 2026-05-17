@@ -10,7 +10,7 @@ The SAP-specific work started in earnest around 2022 and escalated from there.
 
 # Programs that shaped this framework
 
-## CBMM — Project 4US (2024)
+## CBMM — Project 4US (2026)
 **Full ECC-to-S/4HANA Brownfield migration** at Companhia Brasileira de Metalurgia e Mineração. 225-person delivery organization: 11 project managers, 214 Deloitte consultants, covering FI, CO, MM, SD, QM, PP, PM, SuccessFactors, EWM, and TM. One of the most comprehensive SAP transformation programs running in Brazil at the time.
 
 At that scale, the challenge is not technical, it's coordination. Keeping 11 parallel workstreams on a single execution model, resolving cross-functional conflicts before they cascade, and maintaining governance visibility across everything simultaneously.
@@ -22,7 +22,7 @@ This is where the framework was stress-tested at scale. Managing critical path a
 
 ## LDC (Louis Dreyfus Company) — Brazil 
 
-**Tax Reform & eSocial (2024–2025)**
+**Tax Reform & eSocial (2026–2025)**
 84-person cross-functional delivery across SAP SD, FI, and HR. Regulatory programs with hard government deadlines — no extensions, no negotiation. All programs delivered within statutory timelines. Zero regulatory exposure post go-live.
 This engagement added a dimension that purely technical cutover frameworks miss: when compliance is a go-live criterion, the readiness definition changes entirely.
 
