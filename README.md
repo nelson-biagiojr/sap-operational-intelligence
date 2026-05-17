@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/executive-command-center-banner.png" width="100%">
+  <img src="assets/executive-command-center-banner.png" width="100%">
 </p>
 
 > Most SAP transformation programs are heavily monitored during go-live.
@@ -82,7 +82,7 @@ This repository explores how to transform operational noise into operational int
 # Executive Profile
 
 <p align="center">
-  <img src="./executive-profile/images/leadership-philosophy-hero.png" width="100%">
+  <img src="executive-profile/images/leadership-philosophy-hero.png" width="100%">
 </p>
 
 The Executive Profile capability consolidates leadership philosophy, operational governance principles, transformation positioning, and executive communication models.
@@ -98,7 +98,7 @@ The Executive Profile capability consolidates leadership philosophy, operational
 # Go-Live Maturity Model
 
 <p align="center">
-  <img src="./go-live-maturity-model/images/mind-map.png" width="100%">
+  <img src="go-live-maturity-model/images/mind-map.png" width="100%">
 </p>
 
 The Go-Live Maturity Model introduces structured maturity levels for SAP deployment governance, stabilization readiness, and operational convergence.
@@ -113,7 +113,7 @@ The Go-Live Maturity Model introduces structured maturity levels for SAP deploym
 # Operational Intelligence Layer
 
 <p align="center">
-  <img src="./operational-intelligence/images/telemetry-model-hero.png" width="100%">
+  <img src="operational-intelligence/images/telemetry-model-hero.png" width="100%">
 </p>
 
 The Operational Intelligence layer introduces telemetry-driven governance concepts designed to improve stabilization observability, executive visibility, and operational decision support during SAP transformations.
